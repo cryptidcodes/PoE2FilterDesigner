@@ -1,6 +1,12 @@
 # PoE2FilterDesigner
 tool for generating filters for Path of Exile 2
 
+v0.1.1
+Changes:
+Updated filterbase to use current version of NeverSink's LiteFilter.
+Made the bat attempt to use py installer this (should?) prevent needing to check the box to add python to PATH.
+Set Hide option to False by default.
+
 ===================
 
 Installation:
