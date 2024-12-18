@@ -18,4 +18,4 @@ Usage:
 Your filter.filter file will be created in the POE2FilterDesigner directory.
 Copy this file to your Path of Exile 2 filter directory to use it in-game.
 
-[Download]([https://github.com/cryptidcodes/PoE2FilterDesigner/blob/main/PoE2FilterDesigner%20v0.1.0.zip](https://github.com/cryptidcodes/PoE2FilterDesigner/blob/main/PoE2FilterDesigner%20v0.1.0.zip))
+[Download](https://github.com/cryptidcodes/PoE2FilterDesigner/blob/main/PoE2FilterDesigner%20v0.1.0.zip)
