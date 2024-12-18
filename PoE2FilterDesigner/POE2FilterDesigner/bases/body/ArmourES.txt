@@ -1,0 +1,131 @@
+Pilgrim Vestments (Area Level 1-10)
+Armour: 25
+Energy Shield: 16
+Movement Speed: -4%
+
+Pelt Mantle (Area Level 8-16)
+Armour: 50
+Energy Shield: 23
+Movement Speed: -4%
+Requires: Level 10, 14 Str, 14 Int
+
+Mail Vestments (Area Level 14-28)
+Armour: 67
+Energy Shield: 28
+Movement Speed: -4%
+Requires: Level 16, 20 Str, 20 Int
+
+Shaman Mantle (Area Level 26-33)
+Armour: 100
+Energy Shield: 39
+Movement Speed: -4%
+Requires: Level 28, 33 Str, 33 Int
+
+Ironclad Vestments (Area Level 31-36)
+Armour: 114
+Energy Shield: 43
+Movement Speed: -4%
+Requires: Level 33, 39 Str, 39 Int
+
+Sacrificial Mantle (Area Level 34-45)
+Armour: 123
+Energy Shield: 46
+Movement Speed: -4%
+Requires: Level 36, 41 Str, 41 Int
+
+Cleric Vestments (Area Level 43-48)
+Advanced Pilgrim Vestments (Area Level 43-48)
+Armour: 148
+Energy Shield: 53
+Movement Speed: -4%
+Requires: Level 45, 51 Str, 51 Int
+
+Advanced Pelt Mantle (Area Level 46-51)
+Armour: 156
+Energy Shield: 56
+Movement Speed: -4%
+Requires: Level 48, 55 Str, 55 Int
+
+Advanced Mail Vestments (Area Level 49-52)
+Armour: 165
+Energy Shield: 58
+Movement Speed: -4%
+Requires: Level 51, 59 Str, 59 Int
+
+Gilded Vestments (Area Level 50-54)
+Armour: 167
+Energy Shield: 59
+Movement Speed: -4%
+Requires: Level 52, 59 Str, 59 Int
+
+Venerated Mantle (Area Level 52-55)
+Armour: 173
+Energy Shield: 61
+Movement Speed: -4%
+Requires: Level 54, 61 Str, 61 Int
+
+Advanced Shaman Mantle (Area Level 53-59)
+Armour: 176
+Energy Shield: 62
+Movement Speed: -4%
+Requires: Level 55, 62 Str, 62 Int
+
+Advanced Ironclad Vestments (Area Level 57-62)
+Armour: 187
+Energy Shield: 65
+Movement Speed: -4%
+Requires: Level 59, 67 Str, 67 Int
+
+Advanced Sacrificial Mantle (Area Level 60-65)
+Armour: 195
+Energy Shield: 68
+Movement Speed: -4%
+Requires: Level 62, 70 Str, 70 Int
+
+# Endgame bases below (level 65+)
+
+Expert Pelt Mantle (Area Level 63+)
+Tier 1
+Armour: 294
+Energy Shield: 101
+Movement Speed: -4%
+Requires: Level 65, 86 Str, 86 Int
+
+Revered Vestments (Area Level 63+)
+Tier 2
+Armour: 245
+Energy Shield: 84
+Movement Speed: -4%
+Requires: Level 65, 86 Str, 86 Int
++1% to all Maximum Elemental Resistances
+
+Corvus Mantle (Area Level 66+)
+Tier 2
+Armour: 245
+Energy Shield: 84
+Movement Speed: -4%
+Requires: Level 68, 86 Str, 86 Int
++(20–30) to Spirit
+
+Expert Shaman Mantle (Area Level 68+)
+Tier 2
+Armour: 245
+Energy Shield: 84
+Movement Speed: -4%
+Requires: Level 70, 86 Str, 86 Int
++(20–30) to Spirit
+
+Zenith Vestments (Area Level 71+)
+Tier 1
+Armour: 294
+Energy Shield: 101
+Movement Speed: -4%
+Requires: Level 73, 86 Str, 86 Int
+
+Expert Sacrificial Mantle (Area Level 73+)
+Tier 2
+Armour: 245
+Energy Shield: 84
+Movement Speed: -4%
+Requires: Level 75, 86 Str, 86 Int
++1% to all Maximum Elemental Resistances

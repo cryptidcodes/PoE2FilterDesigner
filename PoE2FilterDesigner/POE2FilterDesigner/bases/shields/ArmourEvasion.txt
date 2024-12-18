@@ -1,0 +1,162 @@
+Hardwood Targe (Area Level 1-8)
+Block chance: 25%
+Armour: 10
+Evasion Rating: 7
+Movement Speed: -1.5%
+Grants Skill: Raise Shield
+
+Pelage Targe (Area Level 6-16)
+Block chance: 25%
+Armour: 18
+Evasion Rating: 14
+Movement Speed: -1.5%
+Requires: Level 8, 10 Str, 10 Dex
+Grants Skill: Raise Shield
+
+Studded Targe (Area Level 14-26)
+Block chance: 25%
+Armour: 27
+Evasion Rating: 23
+Movement Speed: -1.5%
+Requires: Level 16, 18 Str, 18 Dex
+Grants Skill: Raise Shield
+
+Crescent Targe (Area Level 24-33)
+Block chance: 25%
+Armour: 39
+Evasion Rating: 34
+Movement Speed: -1.5%
+Requires: Level 26, 27 Str, 27 Dex
+Grants Skill: Raise Shield
+
+Chiseled Targe (Area Level 31-37)
+Block chance: 25%
+Armour: 47
+Evasion Rating: 41
+Movement Speed: -1.5%
+Requires: Level 33, 34 Str, 34 Dex
+Grants Skill: Raise Shield
+
+Feathered Targe (Area Level 35-45)
+Block chance: 25%
+Armour: 51
+Evasion Rating: 46
+Movement Speed: -1.5%
+Requires: Level 37, 38 Str, 38 Dex
+Grants Skill: Raise Shield
+
+Stratified Targe (Area Level 43-47)
+Block chance: 25%
+Armour: 61
+Evasion Rating: 54
+Movement Speed: -1.5%
+Requires: Level 45, 46 Str, 46 Dex
+Grants Skill: Raise Shield
+
+Advanced Hardwood Targe (Area Level 43-47)
+Block chance: 25%
+Armour: 61
+Evasion Rating: 54
+Movement Speed: -1.5%
+Requires: Level 45, 46 Str, 46 Dex
+Grants Skill: Raise Shield
+
+Carved Targe (Area Level 45-48)
+Block chance: 25%
+Armour: 63
+Evasion Rating: 57
+Movement Speed: -1.5%
+Requires: Level 47, 48 Str, 48 Dex
+Grants Skill: Raise Shield
+
+Advanced Pelage Targe (Area Level 46-51)
+Block chance: 25%
+Armour: 64
+Evasion Rating: 58
+Movement Speed: -1.5%
+Requires: Level 48, 49 Str, 49 Dex
+Grants Skill: Raise Shield
+
+Advanced Studded Targe (Area Level 49-52)
+Block chance: 25%
+Armour: 67
+Evasion Rating: 61
+Movement Speed: -1.5%
+Requires: Level 51, 52 Str, 52 Dex
+Grants Skill: Raise Shield
+
+Mosaic Targe (Area Level 50-55)
+Block chance: 25%
+Armour: 69
+Evasion Rating: 62
+Movement Speed: -1.5%
+Requires: Level 52, 53 Str, 53 Dex
+Grants Skill: Raise Shield
+
+Advanced Crescent Targe (Area Level 53-57)
+Block chance: 25%
+Armour: 72
+Evasion Rating: 65
+Movement Speed: -1.5%
+Requires: Level 55, 55 Str, 55 Dex
+Grants Skill: Raise Shield
+
+Aureate Targe (Area Level 55-59)
+Block chance: 25%
+Armour: 74
+Evasion Rating: 68
+Movement Speed: -1.5%
+Requires: Level 57, 58 Str, 58 Dex
+Grants Skill: Raise Shield
+
+Advanced Chiseled Targe (Area Level 57-62)
+Block chance: 25%
+Armour: 77
+Evasion Rating: 70
+Movement Speed: -1.5%
+Requires: Level 59, 59 Str, 59 Dex
+Grants Skill: Raise Shield
+
+Advanced Feathered Targe (Area Level 60-65)
+Block chance: 25%
+Armour: 80
+Evasion Rating: 73
+Movement Speed: -1.5%
+Requires: Level 62, 62 Str, 62 Dex
+Grants Skill: Raise Shield
+
+Grand Targe (Area Level 63+)
+Tier 2
+Block chance: 25%
+Armour: 84
+Evasion Rating: 76
+Movement Speed: -1.5%
+Requires: Level 65, 65 Str, 65 Dex
+Grants Skill: Raise Shield
+
+Expert Pelage Targe (Area Level 63+)
+Tier 2
+Block chance: 25%
+Armour: 84
+Evasion Rating: 76
+Movement Speed: -1.5%
+Requires: Level 65, 65 Str, 65 Dex
+Grants Skill: Raise Shield
+
+Expert Crescent Targe (Area Level 68+)
+Tier 2
+Block chance: 25%
+Armour: 92
+Evasion Rating: 84
+Movement Speed: -1.5%
+Requires: Level 70, 70 Str, 70 Dex
+Grants Skill: Raise Shield
+
+Expert Feathered Targe (Area Level 73+)
+Tier 1
+Block chance: 25%
+Armour: 100
+Evasion Rating: 91
+Movement Speed: -1.5%
+Requires: Level 75, 76 Str, 76 Dex
+Grants Skill: Raise Shield

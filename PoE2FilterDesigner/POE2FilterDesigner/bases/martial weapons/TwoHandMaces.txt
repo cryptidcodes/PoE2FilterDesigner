@@ -1,0 +1,190 @@
+Felled Greatclub (Area Level 1-4)
+Physical Damage: 13-18
+Critical Hit Chance: 5%
+Attacks per Second: 1.1
+Weapon Range: 1.3
+
+Oak Greathammer (Area Level 2-11)
+Physical Damage: 14-26
+Critical Hit Chance: 5%
+Attacks per Second: 1.05
+Weapon Range: 1.3
+Requires: Level 4, 11 Str
+Causes (30–50)% increased Stun Buildup
+
+Forge Maul (Area Level 9-16)
+Physical Damage: 29-39
+Critical Hit Chance: 5%
+Attacks per Second: 1.05
+Weapon Range: 1.3
+Requires: Level 11, 27 Str
+
+Studded Greatclub (Area Level 14-22)
+Physical Damage: 32-48
+Critical Hit Chance: 5%
+Attacks per Second: 1.1
+Weapon Range: 1.3
+Requires: Level 16, 38 Str
+
+Cultist Greathammer (Area Level 20-28)
+Physical Damage: 32-43
+Critical Hit Chance: 5%
+Attacks per Second: 1.05
+Weapon Range: 1.3
+Requires: Level 22, 52 Str
+Strikes deal Splash damage to targets within 1.8 metres
+
+Temple Maul (Area Level 26-33)
+Physical Damage: 35-72
+Critical Hit Chance: 5%
+Attacks per Second: 1.2
+Weapon Range: 1.3
+Requires: Level 28, 65 Str
+
+Leaden Greathammer (Area Level 31-38)
+Physical Damage: 58-78
+Critical Hit Chance: 5%
+Attacks per Second: 1.1
+Weapon Range: 1.3
+Requires: Level 33, 76 Str
+
+Crumbling Maul (Area Level 36-45)
+Physical Damage: 62-75
+Critical Hit Chance: 5%
+Attacks per Second: 1.1
+Weapon Range: 1.3
+Requires: Level 38, 88 Str
+Causes Enemies to Explode on Critical kill, for 10% of their Life as Physical Damage
+
+Pointed Maul (Area Level 43-48)
+Physical Damage: 68-102
+Critical Hit Chance: 6.5%
+Attacks per Second: 1.1
+Weapon Range: 1.3
+Requires: Level 45, 104 Str
+
+Advanced Oak Greathammer (Area Level 43-48)
+Physical Damage: 59-109
+Critical Hit Chance: 5%
+Attacks per Second: 1.05
+Weapon Range: 1.3
+Requires: Level 45, 104 Str
+Causes (30–50)% increased Stun Buildup
+
+Advanced Forge Maul (Area Level 46-50)
+Physical Damage: 84-113
+Critical Hit Chance: 5%
+Attacks per Second: 1.05
+Weapon Range: 1.3
+Requires: Level 48, 110 Str
+
+Totemic Greatclub (Area Level 48-51)
+Physical Damage: 73-99
+Critical Hit Chance: 5%
+Attacks per Second: 1.1
+Weapon Range: 1.3
+Requires: Level 50, 115 Str
+Crushes Enemies on Hit
+
+Advanced Cultist Greathammer (Area Level 49-52)
+Physical Damage: 62-83
+Critical Hit Chance: 5%
+Attacks per Second: 1.05
+Weapon Range: 1.3
+Requires: Level 51, 117 Str
+Strikes deal Splash damage to targets within 1.8 metres
+
+Greatmace (Area Level 50-54)
+Physical Damage: 74-124
+Critical Hit Chance: 5%
+Attacks per Second: 1.1
+Weapon Range: 1.3
+Requires: Level 52, 119 Str
+
+Precise Greathammer (Area Level 52-55)
+Physical Damage: 87-118
+Critical Hit Chance: 5%
+Attacks per Second: 1.1
+Weapon Range: 1.3
+Requires: Level 54, 124 Str
+
+Advanced Temple Maul (Area Level 53-59)
+Physical Damage: 60-125
+Critical Hit Chance: 5%
+Attacks per Second: 1.2
+Weapon Range: 1.3
+Requires: Level 55, 126 Str
+
+Advanced Leaden Greathammer (Area Level 57-62)
+Physical Damage: 94-127
+Critical Hit Chance: 5%
+Attacks per Second: 1.1
+Weapon Range: 1.3
+Requires: Level 59, 135 Str
+
+Advanced Crumbling Maul (Area Level 60-65)
+Physical Damage: 93-114
+Critical Hit Chance: 5%
+Attacks per Second: 1.1
+Weapon Range: 1.3
+Requires: Level 62, 142 Str
+Causes Enemies to Explode on Critical kill, for 10% of their Life as Physical Damage
+
+Giant Maul (Area Level 63+)
+Tier 2
+Physical Damage: 96-144
+Critical Hit Chance: 5%
+Attacks per Second: 1.1
+Weapon Range: 1.3
+Requires: Level 65, 148 Str
+
+Expert Forge Maul (Area Level 65+)
+Tier 2
+Physical Damage: 112-151
+Critical Hit Chance: 5%
+Attacks per Second: 1.05
+Weapon Range: 1.3
+Requires: Level 67, 174 Str
+
+Expert Temple Maul (Area Level 70+)
+Tier 1
+Physical Damage: 76-158
+Critical Hit Chance: 5%
+Attacks per Second: 1.2
+Weapon Range: 1.3
+Requires: Level 72, 193 Str
+
+Expert Oak Greathammer (Area Level 75+)
+Tier 1
+Physical Damage: 94-174
+Critical Hit Chance: 5%
+Attacks per Second: 1.05
+Weapon Range: 1.3
+Requires: Level 77, 212 Str
+Causes (30–50)% increased Stun Buildup
+
+Expert Leaden Greathammer (Area Level 75+)
+Tier 1
+Physical Damage: 119-161
+Critical Hit Chance: 5%
+Attacks per Second: 1.1
+Weapon Range: 1.3
+Requires: Level 77, 212 Str
+
+Expert Cultist Greathammer (Area Level 76+)
+Tier 2
+Physical Damage: 89-120
+Critical Hit Chance: 5%
+Attacks per Second: 1.05
+Weapon Range: 1.3
+Requires: Level 78, 212 Str
+Strikes deal Splash damage to targets within 1.8 metres
+
+Expert Crumbling Maul (Area Level 77+)
+Tier 1
+Physical Damage: 113-138
+Critical Hit Chance: 5%
+Attacks per Second: 1.1
+Weapon Range: 1.3
+Requires: Level 79, 212 Str
+Causes Enemies to Explode on Critical kill, for 10% of their Life as Physical Damage

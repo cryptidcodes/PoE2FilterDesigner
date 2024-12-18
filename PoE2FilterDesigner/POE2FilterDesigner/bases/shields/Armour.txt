@@ -1,0 +1,156 @@
+Splintered Tower Shield (Area Level 1-6)
+Block chance: 26%
+Armour: 18
+Movement Speed: -3%
+Grants Skill: Raise Shield
+
+Painted Tower Shield (Area Level 4-12)
+Block chance: 26%
+Armour: 29
+Movement Speed: -3%
+Requires: Level 6, 13 Str
+Grants Skill: Raise Shield
+
+Braced Tower Shield (Area Level 10-16)
+Block chance: 26%
+Armour: 41
+Movement Speed: -3%
+Requires: Level 12, 23 Str
+Grants Skill: Raise Shield
+
+Barricade Tower Shield (Area Level 14-21)
+Block chance: 26%
+Armour: 50
+Movement Speed: -3%
+Requires: Level 16, 30 Str
+Grants Skill: Raise Shield
+
+Effigial Tower Shield (Area Level 19-28)
+Block chance: 26%
+Armour: 60
+Movement Speed: -3%
+Requires: Level 21, 40 Str
+Grants Skill: Raise Shield
+
+Rampart Tower Shield (Area Level 26-33)
+Block chance: 26%
+Armour: 75
+Movement Speed: -3%
+Requires: Level 28, 52 Str
+Grants Skill: Raise Shield
+
+Heraldric Tower Shield (Area Level 31-36)
+Block chance: 26%
+Armour: 85
+Movement Speed: -3%
+Requires: Level 33, 61 Str
+Grants Skill: Raise Shield
+
+Stone Tower Shield (Area Level 34-45)
+Block chance: 26%
+Armour: 91
+Movement Speed: -3%
+Requires: Level 36, 66 Str
+Grants Skill: Raise Shield
+
+Crucible Tower Shield (Area Level 43-48)
+Block chance: 26%
+Armour: 110
+Movement Speed: -3%
+Requires: Level 45, 83 Str
+Grants Skill: Raise Shield
+
+Advanced Painted Tower Shield (Area Level 43-48)
+Block chance: 26%
+Armour: 110
+Movement Speed: -3%
+Requires: Level 45, 83 Str
+Grants Skill: Raise Shield
+
+Advanced Braced Tower Shield (Area Level 46-51)
+Block chance: 26%
+Armour: 116
+Movement Speed: -3%
+Requires: Level 48, 88 Str
+Grants Skill: Raise Shield
+
+Ancestor Tower Shield (Area Level 48-51)
+Block chance: 26%
+Armour: 121
+Movement Speed: -3%
+Requires: Level 50, 92 Str
+Grants Skill: Raise Shield
+
+Advanced Effigial Tower Shield (Area Level 49-52)
+Block chance: 26%
+Armour: 123
+Movement Speed: -3%
+Requires: Level 51, 94 Str
+Grants Skill: Raise Shield
+
+Phalanx Tower Shield (Area Level 50-55)
+Block chance: 26%
+Armour: 125
+Movement Speed: -3%
+Requires: Level 52, 95 Str
+Grants Skill: Raise Shield
+
+Advanced Rampart Tower Shield (Area Level 53-58)
+Block chance: 26%
+Armour: 131
+Movement Speed: -3%
+Requires: Level 55, 101 Str
+Grants Skill: Raise Shield
+
+Defiant Tower Shield (Area Level 56-59)
+Block chance: 26%
+Armour: 137
+Movement Speed: -3%
+Requires: Level 58, 106 Str
+Grants Skill: Raise Shield
+
+Advanced Heraldric Tower Shield (Area Level 57-61)
+Block chance: 26%
+Armour: 139
+Movement Speed: -3%
+Requires: Level 59, 108 Str
+Grants Skill: Raise Shield
+
+Advanced Stone Tower Shield (Area Level 59-65)
+Block chance: 26%
+Armour: 144
+Movement Speed: -3%
+Requires: Level 61, 112 Str
+Grants Skill: Raise Shield
+
+Blacksteel Tower Shield (Area Level 63+)
+Tier 2
+Block chance: 26%
+Armour: 152
+Movement Speed: -3%
+Requires: Level 65, 118 Str
+Grants Skill: Raise Shield
+
+Expert Braced Tower Shield (Area Level 63+)
+Tier 2
+Block chance: 26%
+Armour: 152
+Movement Speed: -3%
+Requires: Level 65, 118 Str
+Grants Skill: Raise Shield
+
+Expert Rampart Tower Shield (Area Level 68+)
+Tier 2
+Block chance: 26%
+Armour: 167
+Movement Speed: -3%
+Requires: Level 70, 129 Str
+Grants Skill: Raise Shield
+
+Expert Stone Tower Shield (Area Level 73+)
+Tier 1
+Block chance: 26%
+Armour: 182
+Movement Speed: -3%
+Requires: Level 75, 139 Str
+Grants Skill: Raise Shield

@@ -1,0 +1,162 @@
+Blazon Crest Shield (Area Level 1-7)
+Block chance: 25%
+Armour: 10
+Energy Shield: 6
+Movement Speed: -1.5%
+Grants Skill: Raise Shield
+
+Sigil Crest Shield (Area Level 5-16)
+Block chance: 25%
+Armour: 17
+Energy Shield: 8
+Movement Speed: -1.5%
+Requires: Level 7, 10 Str, 10 Int
+Grants Skill: Raise Shield
+
+Emblem Crest Shield (Area Level 14-28)
+Block chance: 25%
+Armour: 27
+Energy Shield: 12
+Movement Speed: -1.5%
+Requires: Level 16, 18 Str, 18 Int
+Grants Skill: Raise Shield
+
+Jingling Crest Shield (Area Level 26-33)
+Block chance: 25%
+Armour: 41
+Energy Shield: 16
+Movement Speed: -1.5%
+Requires: Level 28, 30 Str, 30 Int
+Grants Skill: Raise Shield
+
+Sectarian Crest Shield (Area Level 31-36)
+Block chance: 25%
+Armour: 47
+Energy Shield: 18
+Movement Speed: -1.5%
+Requires: Level 33, 34 Str, 34 Int
+Grants Skill: Raise Shield
+
+Omen Crest Shield (Area Level 34-45)
+Block chance: 25%
+Armour: 50
+Energy Shield: 19
+Movement Speed: -1.5%
+Requires: Level 36, 37 Str, 37 Int
+Grants Skill: Raise Shield
+
+Wayward Crest Shield (Area Level 43-48)
+Block chance: 25%
+Armour: 61
+Energy Shield: 22
+Movement Speed: -1.5%
+Requires: Level 45, 46 Str, 46 Int
+Grants Skill: Raise Shield
+
+Advanced Blazon Crest Shield (Area Level 43-48)
+Block chance: 25%
+Armour: 61
+Energy Shield: 22
+Movement Speed: -1.5%
+Requires: Level 45, 46 Str, 46 Int
+Grants Skill: Raise Shield
+
+Advanced Sigil Crest Shield (Area Level 46-49)
+Block chance: 25%
+Armour: 64
+Energy Shield: 23
+Movement Speed: -1.5%
+Requires: Level 48, 49 Str, 49 Int
+Grants Skill: Raise Shield
+
+Seer Crest Shield (Area Level 47-51)
+Block chance: 25%
+Armour: 65
+Energy Shield: 23
+Movement Speed: -1.5%
+Requires: Level 49, 50 Str, 50 Int
+Grants Skill: Raise Shield
+
+Advanced Emblem Crest Shield (Area Level 49-52)
+Block chance: 25%
+Armour: 67
+Energy Shield: 24
+Movement Speed: -1.5%
+Requires: Level 51, 52 Str, 52 Int
+Grants Skill: Raise Shield
+
+Stoic Crest Shield (Area Level 50-55)
+Block chance: 25%
+Armour: 69
+Energy Shield: 24
+Movement Speed: -1.5%
+Requires: Level 52, 53 Str, 53 Int
+Grants Skill: Raise Shield
+
+Advanced Jingling Crest Shield (Area Level 53-57)
+Block chance: 25%
+Armour: 72
+Energy Shield: 25
+Movement Speed: -1.5%
+Requires: Level 55, 55 Str, 55 Int
+Grants Skill: Raise Shield
+
+Empyreal Crest Shield (Area Level 55-59)
+Block chance: 25%
+Armour: 74
+Energy Shield: 26
+Movement Speed: -1.5%
+Requires: Level 57, 58 Str, 58 Int
+Grants Skill: Raise Shield
+
+Advanced Sectarian Crest Shield (Area Level 57-62)
+Block chance: 25%
+Armour: 77
+Energy Shield: 27
+Movement Speed: -1.5%
+Requires: Level 59, 59 Str, 59 Int
+Grants Skill: Raise Shield
+
+Advanced Omen Crest Shield (Area Level 60-65)
+Block chance: 25%
+Armour: 80
+Energy Shield: 28
+Movement Speed: -1.5%
+Requires: Level 62, 62 Str, 62 Int
+Grants Skill: Raise Shield
+
+Deified Crest Shield (Area Level 63+)
+Tier 2
+Block chance: 25%
+Armour: 84
+Energy Shield: 29
+Movement Speed: -1.5%
+Requires: Level 65, 65 Str, 65 Int
+Grants Skill: Raise Shield
+
+Expert Sigil Crest Shield (Area Level 63+)
+Tier 2
+Block chance: 25%
+Armour: 84
+Energy Shield: 29
+Movement Speed: -1.5%
+Requires: Level 65, 65 Str, 65 Int
+Grants Skill: Raise Shield
+
+Expert Jingling Crest Shield (Area Level 68+)
+Tier 2
+Block chance: 25%
+Armour: 92
+Energy Shield: 32
+Movement Speed: -1.5%
+Requires: Level 70, 70 Str, 70 Int
+Grants Skill: Raise Shield
+
+Expert Omen Crest Shield (Area Level 73+)
+Tier 1
+Block chance: 25%
+Armour: 100
+Energy Shield: 35
+Movement Speed: -1.5%
+Requires: Level 75, 76 Str, 76 Int
+Grants Skill: Raise Shield

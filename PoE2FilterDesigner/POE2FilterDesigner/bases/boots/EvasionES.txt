@@ -1,0 +1,63 @@
+Frayed Shoes (Area Level 3-16)
+Evasion Rating: 13
+Energy Shield: 9
+Requires: Level 5, 7 Dex, 7 Int
+
+Threaded Shoes (Area Level 14-33)
+Evasion Rating: 28
+Energy Shield: 14
+Requires: Level 16, 17 Dex, 17 Int
+
+Hunting Shoes (Area Level 31-45)
+Evasion Rating: 50
+Energy Shield: 21
+Requires: Level 33, 32 Dex, 32 Int
+
+Steelpoint Shoes (Area Level 43-51)
+Evasion Rating: 65
+Energy Shield: 26
+Requires: Level 45, 43 Dex, 43 Int
+
+Advanced Frayed Shoes (Area Level 43-51)
+Evasion Rating: 65
+Energy Shield: 26
+Requires: Level 45, 43 Dex, 43 Int
+
+Advanced Threaded Shoes (Area Level 49-52)
+Evasion Rating: 73
+Energy Shield: 29
+Requires: Level 51, 49 Dex, 49 Int
+
+Velour Shoes (Area Level 50-59)
+Evasion Rating: 74
+Energy Shield: 29
+Requires: Level 52, 50 Dex, 50 Int
+
+Advanced Hunting Shoes (Area Level 57-65)
+Evasion Rating: 84
+Energy Shield: 32
+Requires: Level 59, 56 Dex, 56 Int
+
+Bladed Shoes (Area Level 63+)
+Tier 2
+Evasion Rating: 91
+Energy Shield: 35
+Requires: Level 65, 61 Dex, 61 Int
+
+Expert Frayed Shoes (Area Level 63+)
+Tier 2
+Evasion Rating: 91
+Energy Shield: 35
+Requires: Level 65, 61 Dex, 61 Int
+
+Expert Threaded Shoes (Area Level 68+)
+Tier 2
+Evasion Rating: 101
+Energy Shield: 38
+Requires: Level 70, 66 Dex, 66 Int
+
+Expert Hunting Shoes (Area Level 73+)
+Tier 1
+Evasion Rating: 110
+Energy Shield: 42
+Requires: Level 75, 71 Dex, 71 Int

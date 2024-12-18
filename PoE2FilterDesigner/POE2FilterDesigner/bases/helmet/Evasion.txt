@@ -1,0 +1,78 @@
+Shabby Hood (Area Level 1-10)
+Evasion Rating: 19
+
+Felt Cap (Area Level 8-16)
+Evasion Rating: 48
+Requires: Level 10, 20 Dex
+
+Lace Hood (Area Level 14-26)
+Evasion Rating: 67
+Requires: Level 16, 30 Dex
+
+Swathed Cap (Area Level 24-33)
+Evasion Rating: 98
+Requires: Level 26, 49 Dex
+
+Hunter Hood (Area Level 31-38)
+Evasion Rating: 121
+Requires: Level 33, 61 Dex
+
+Viper Cap (Area Level 36-45)
+Evasion Rating: 136
+Requires: Level 38, 70 Dex
+
+Corsair Cap (Area Level 43-48)
+Evasion Rating: 158
+Requires: Level 45, 83 Dex
+
+Advanced Shabby Hood (Area Level 43-48)
+Evasion Rating: 158
+Requires: Level 45, 83 Dex
+
+Advanced Felt Cap (Area Level 46-51)
+Evasion Rating: 168
+Requires: Level 48, 88 Dex
+
+Leatherbound Hood (Area Level 49-52)
+Evasion Rating: 177
+Requires: Level 51, 94 Dex
+
+Advanced Lace Hood (Area Level 49-52)
+Evasion Rating: 177
+Requires: Level 51, 94 Dex
+
+Velvet Cap (Area Level 50-55)
+Evasion Rating: 181
+Requires: Level 52, 95 Dex
+
+Advanced Swathed Cap (Area Level 53-56)
+Evasion Rating: 190
+Requires: Level 55, 101 Dex
+
+Covert Hood (Area Level 54-59)
+Evasion Rating: 193
+Requires: Level 56, 102 Dex
+
+Advanced Hunter Hood (Area Level 57-65)
+Evasion Rating: 203
+Requires: Level 59, 108 Dex
+
+Armoured Cap (Area Level 63+)
+Tier 2
+Evasion Rating: 222
+Requires: Level 65, 118 Dex
+
+Expert Felt Cap (Area Level 63+)
+Tier 2
+Evasion Rating: 222
+Requires: Level 65, 118 Dex
+
+Expert Swathed Cap (Area Level 68+)
+Tier 2
+Evasion Rating: 244
+Requires: Level 70, 129 Dex
+
+Expert Hunter Hood (Area Level 73+)
+Tier 1
+Evasion Rating: 266
+Requires: Level 75, 139 Dex

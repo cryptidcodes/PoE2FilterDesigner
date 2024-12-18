@@ -1,0 +1,78 @@
+Twig Circlet (Area Level 1-10)
+Energy Shield: 19
+
+Wicker Tiara (Area Level 8-16)
+Energy Shield: 28
+Requires: Level 10, 20 Int
+
+Beaded Circlet (Area Level 14-26)
+Energy Shield: 34
+Requires: Level 16, 30 Int
+
+Chain Tiara (Area Level 24-33)
+Energy Shield: 44
+Requires: Level 26, 49 Int
+
+Feathered Tiara (Area Level 31-40)
+Energy Shield: 51
+Requires: Level 33, 61 Int
+
+Gold Circlet (Area Level 38-45)
+Energy Shield: 58
+Requires: Level 40, 74 Int
+
+Coral Circlet (Area Level 43-48)
+Energy Shield: 63
+Requires: Level 45, 83 Int
+
+Advanced Twig Circlet (Area Level 43-48)
+Energy Shield: 63
+Requires: Level 45, 83 Int
+
+Advanced Wicker Tiara (Area Level 46-50)
+Energy Shield: 67
+Requires: Level 48, 88 Int
+
+Jade Tiara (Area Level 48-52)
+Energy Shield: 69
+Requires: Level 50, 92 Int
+
+Noble Circlet (Area Level 50-55)
+Energy Shield: 71
+Requires: Level 52, 95 Int
+
+Advanced Beaded Circlet (Area Level 50-55)
+Energy Shield: 71
+Requires: Level 52, 95 Int
+
+Advanced Chain Tiara (Area Level 53-58)
+Energy Shield: 74
+Requires: Level 55, 101 Int
+
+Twilight Tiara (Area Level 56-59)
+Energy Shield: 77
+Requires: Level 58, 106 Int
+
+Advanced Feathered Tiara (Area Level 57-65)
+Energy Shield: 78
+Requires: Level 59, 108 Int
+
+Magus Tiara (Area Level 63+)
+Tier 2
+Energy Shield: 84
+Requires: Level 65, 118 Int
+
+Expert Wicker Tiara (Area Level 63+)
+Tier 2
+Energy Shield: 84
+Requires: Level 65, 118 Int
+
+Expert Chain Tiara (Area Level 68+)
+Tier 2
+Energy Shield: 92
+Requires: Level 70, 129 Int
+
+Expert Feathered Tiara (Area Level 73+)
+Tier 1
+Energy Shield: 101
+Requires: Level 75, 139 Int

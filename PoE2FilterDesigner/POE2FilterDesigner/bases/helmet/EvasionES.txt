@@ -1,0 +1,83 @@
+Hewn Mask (Area Level 3-10)
+Evasion Rating: 18
+Energy Shield: 12
+Requires: Level 5, 7 Dex, 7 Int
+
+Face Mask (Area Level 8-16)
+Evasion Rating: 26
+Energy Shield: 15
+Requires: Level 10, 12 Dex, 12 Int
+
+Hooded Mask (Area Level 14-28)
+Evasion Rating: 37
+Energy Shield: 19
+Requires: Level 16, 18 Dex, 18 Int
+
+Veiled Mask (Area Level 26-33)
+Evasion Rating: 58
+Energy Shield: 25
+Requires: Level 28, 30 Dex, 30 Int
+
+Tribal Mask (Area Level 31-45)
+Evasion Rating: 66
+Energy Shield: 28
+Requires: Level 33, 34 Dex, 34 Int
+
+Solid Mask (Area Level 43-48)
+Evasion Rating: 87
+Energy Shield: 35
+Requires: Level 45, 46 Dex, 46 Int
+
+Advanced Hewn Mask (Area Level 43-48)
+Evasion Rating: 87
+Energy Shield: 35
+Requires: Level 45, 46 Dex, 46 Int
+
+Advanced Face Mask (Area Level 46-51)
+Evasion Rating: 92
+Energy Shield: 37
+Requires: Level 48, 49 Dex, 49 Int
+
+Advanced Hooded Mask (Area Level 49-52)
+Evasion Rating: 98
+Energy Shield: 38
+Requires: Level 51, 52 Dex, 52 Int
+
+Shaded Mask (Area Level 50-55)
+Evasion Rating: 99
+Energy Shield: 39
+Requires: Level 52, 53 Dex, 53 Int
+
+Advanced Veiled Mask (Area Level 53-59)
+Evasion Rating: 105
+Energy Shield: 41
+Requires: Level 55, 55 Dex, 55 Int
+
+Advanced Tribal Mask (Area Level 57-65)
+Evasion Rating: 111
+Energy Shield: 43
+Requires: Level 59, 59 Dex, 59 Int
+
+Death Mask (Area Level 63+)
+Tier 2
+Evasion Rating: 122
+Energy Shield: 46
+Requires: Level 65, 65 Dex, 65 Int
+
+Expert Face Mask (Area Level 63+)
+Tier 2
+Evasion Rating: 122
+Energy Shield: 46
+Requires: Level 65, 65 Dex, 65 Int
+
+Expert Veiled Mask (Area Level 68+)
+Tier 2
+Evasion Rating: 134
+Energy Shield: 51
+Requires: Level 70, 70 Dex, 70 Int
+
+Expert Tribal Mask (Area Level 73+)
+Tier 1
+Evasion Rating: 146
+Energy Shield: 55
+Requires: Level 75, 76 Dex, 76 Int

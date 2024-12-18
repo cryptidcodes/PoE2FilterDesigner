@@ -1,0 +1,264 @@
+====================================
+###### CRYPTID FILTER DESIGNER #####
+====================================
+
+"""
+READ ME
+
+This program is designed to create show/hide overrides and apply them to NeverSinks litefilter while he works on updating filterblade.xyz
+The following section allows the user to customize their show/hide settings for crafting bases as well as styles.
+
+This section of the program creates a filter block for each basetype at its respective tier.
+By default, all settings are set to False. This configuration will effectively print a copy of NeverSink's LiteFilter 0.1.1.
+If you would like to show a crafting basetype, simply set it's "Show" parameter to True instead of False.
+
+Tooggling HIDE_UNSHOWN_ITEMS to True will hide items at rarities below Rare if they are set to False.
+Rare items will always be shown.
+The styles can be adjusted below the toggles, if you care to change them.
+"""
+
+HIDE_UNSHOWN_ITEMS = True                       # Controls if non-rare items are hidden
+
+
+===============================
+### LEVELING ARMOR SETTINGS ###
+===============================
+
+# Show/Hide settings for Leveling Armor
+
+# Pure
+SHOW_LEVELING_ARMOUR = False                     # Controls all pure armour bases while leveling
+SHOW_LEVELING_EVASION = False                    # Controls all pure evasion bases while leveling
+SHOW_LEVELING_ES = False                         # Controls all pure ES bases while leveling
+
+# Hybrid
+SHOW_LEVELING_ARMOUR_EVASION = False             # Controls all armour/evasion hybrid bases while leveling
+SHOW_LEVELING_ARMOUR_ES = False                  # Controls all armour/ES hybrid bases while leveling
+SHOW_LEVELING_EVASION_ES = False                 # Controls all evasion/ES hybrid bases while leveling
+
+# Shields
+SHOW_LEVELING_ARMOUR_SHIELD = False              # Controls all pure armour shield bases while leveling
+SHOW_LEVELING_EVASION_SHIELD = False             # Controls all pure evasion shield bases while leveling
+SHOW_LEVELING_ARMOUR_EVASION_SHIELD = False      # Controls all armour/evasion hybrid shield bases while leveling
+SHOW_LEVELING_ARMOUR_ES_SHIELD = False           # Controls all armour/ES hybrid shield bases while leveling
+
+# Foci
+SHOW_LEVELING_FOCI = False                       # Controls focus bases while leveling
+
+===============================
+### ENDGAME ARMOR SETTINGS ###
+===============================
+
+# Show/Hide settings for Endgame Armor
+SHOW_ENDGAME_T1_ARMOUR = False                   # Controls best armour bases for endgame
+SHOW_ENDGAME_T2_ARMOUR = False                   # Controls good armour bases for endgame
+
+SHOW_ENDGAME_T1_EVASION = False                  # Controls best evasion bases for endgame
+SHOW_ENDGAME_T2_EVASION = False                  # Controls good evasion bases for endgame
+
+SHOW_ENDGAME_T1_ES = False                       # Controls best ES bases for endgame
+SHOW_ENDGAME_T2_ES = False                       # Controls good ES bases for endgame
+
+SHOW_ENDGAME_T1_ARMOUR_EVASION = False           # Controls best armour/evasion bases for endgame
+SHOW_ENDGAME_T2_ARMOUR_EVASION = False           # Controls good armour/evasion bases for endgame
+
+SHOW_ENDGAME_T1_ARMOUR_ES = False                # Controls best armour/ES bases for endgame
+SHOW_ENDGAME_T2_ARMOUR_ES = False                # Controls good armour/ES bases for endgame
+
+SHOW_ENDGAME_T1_EVASION_ES = True               # Controls best evasion/ES bases for endgame
+SHOW_ENDGAME_T2_EVASION_ES = True               # Controls good evasion/ES bases for endgame
+
+# Show/Hide settings for Shields
+SHOW_ENDGAME_T1_ARMOUR_SHIELD = False            # Controls best pure armour shield bases for endgame
+SHOW_ENDGAME_T2_ARMOUR_SHIELD = False            # Controls good pure armour shield bases for endgame
+
+SHOW_ENDGAME_T1_EVASION_SHIELD = False           # Controls best pure evasion shield bases for endgame
+SHOW_ENDGAME_T2_EVASION_SHIELD = False           # Controls good pure evasion shield bases for endgame
+
+SHOW_ENDGAME_T1_ARMOUR_EVASION_SHIELD = False    # Controls best armour/evasion hybrid shield bases for endgame
+SHOW_ENDGAME_T2_ARMOUR_EVASION_SHIELD = False    # Controls good armour/evasion hybrid shield bases for endgame
+
+SHOW_ENDGAME_T1_ARMOUR_ES_SHIELD = False         # Controls best armour/ES hybrid shield bases for endgame
+SHOW_ENDGAME_T2_ARMOUR_ES_SHIELD = False         # Controls good armour/ES hybrid shield bases for endgame
+
+# Show/Hide settings for Foci
+SHOW_ENDGAME_T1_FOCI = False                     # Controls best focus bases for endgame
+SHOW_ENDGAME_T2_FOCI = False                     # Controls good focus bases for endgame
+
+================================
+### LEVELING WEAPON SETTINGS ###
+================================
+
+# Show/Hide weapon leveling progression
+SHOW_LEVELING_BOWS = False                       # Controls bow bases while leveling
+SHOW_LEVELING_CROSSBOWS = False                  # Controls crossbow bases while leveling
+SHOW_LEVELING_ONE_HAND_MACES = False             # Controls one hand mace bases while leveling
+SHOW_LEVELING_TWO_HAND_MACES = False             # Controls two hand mace bases while leveling
+SHOW_LEVELING_QUARTERSTAVES = False              # Controls quarterstaff bases while leveling
+
+"""
+Caster weapons are different from martial weapons, so we need to treat them differently.
+Because they do not have a base DPS, and are instead skill based and level their skills up as the item levels up,
+we need to show all bases that share a skill at all times during progression. The same is true for quivers.
+"""
+
+# Show/Hide settings for Wands
+SHOW_CHAOS_BOLT_WANDS = False                    # Controls wands that grant Chaos Bolt skill
+SHOW_BONE_BLAST_WANDS = False                    # Controls wands that grant Bone Blast skill
+SHOW_MANA_DRAIN_WANDS = False                    # Controls wands that grant Mana Drain skill
+SHOW_POWER_SIPHON_WANDS = False                  # Controls wands that grant Power Siphon skill
+SHOW_VOLATILE_DEAD_WANDS = False                 # Controls wands that grant Volatile Dead skill
+SHOW_GALVANIC_FIELD_WANDS = False                # Controls wands that grant Galvanic Field skill
+SHOW_DECOMPOSE_WANDS = False                     # Controls wands that grant Decompose skill
+SHOW_EXSANGUINATE_WANDS = False                  # Controls wands that grant Exsanguinate skill
+SHOW_WITHER_WANDS = False                        # Controls wands that grant Wither skill
+
+# Show/Hide settings for Sceptres
+SHOW_SKELETAL_WARRIOR_SCEPTRES = False           # Controls sceptres that grant Skeletal Warrior skill
+SHOW_DISCIPLINE_SCEPTRES = False                 # Controls sceptres that grant Discipline skill
+SHOW_MALICE_SCEPTRES = False                     # Controls sceptres that grant Malice skill
+SHOW_PURITY_SCEPTRES = False                     # Controls all sceptres that grant Purity skills
+
+# Show/Hide settings for Staves
+SHOW_FIREBOLT_STAVES = False                     # Controls staves that grant Firebolt skill
+SHOW_FREEZING_SHARDS_STAVES = False              # Controls staves that grant Freezing Shards skill
+SHOW_LIGHTNING_BOLT_STAVES = False               # Controls staves that grant Lightning Bolt skill
+SHOW_LIVING_BOMB_STAVES = False                  # Controls staves that grant Living Bomb skill
+SHOW_SIGIL_OF_POWER_STAVES = False               # Controls staves that grant Sigil of Power skill
+SHOW_SOULREND_STAVES = False                     # Controls staves that grant Soulrend skill
+SHOW_REAP_STAVES = False                         # Controls staves that grant Reap skill
+SHOW_UNLEASH_STAVES = False                      # Controls staves that grant Unleash skill
+SHOW_SHOCK_NOVA_STAVES = False                   # Controls staves that grant Shock Nova skill
+SHOW_CONSECRATE_STAVES = False                   # Controls staves that grant Consecrate skill
+SHOW_DARK_PACT_STAVES = False                    # Controls staves that grant Dark Pact skill
+
+# Show/Hide settings for Quivers
+SHOW_PHYSICAL_DAMAGE_QUIVER = False              # Controls Broadhead Quiver
+SHOW_FIRE_DAMAGE_QUIVER = False                  # Controls Fire Quiver (Level 8)
+SHOW_LIFE_ON_HIT_QUIVER = False                  # Controls Sacral Quiver (Level 16)
+SHOW_ACCURACY_QUIVER = False                     # Controls Two-Point Quiver (Level 24)
+SHOW_STUN_THRESHOLD_QUIVER = False               # Controls Blunt Quiver (Level 33)
+SHOW_POISON_CHANCE_QUIVER = False                # Controls Toxic Quiver (Level 39)
+SHOW_BLEED_CHANCE_QUIVER = False                 # Controls Serrated Quiver (Level 44)
+SHOW_ATTACK_SPEED_QUIVER = False                 # Controls Primed Quiver (Level 51)
+SHOW_PIERCE_QUIVER = False                       # Controls Penetrating Quiver (Level 55)
+SHOW_ARROW_SPEED_QUIVER = False                  # Controls Volant Quiver (Level 61)
+SHOW_CRIT_CHANCE_QUIVER = False                  # Controls Visceral Quiver (Level 65)
+
+================================
+### ENDGAME WEAPON SETTINGS ###
+================================
+
+# Show/Hide settings for One Hand Maces
+SHOW_ENDGAME_T1_ONE_HAND_MACES = False           # Controls best one hand mace bases for endgame
+SHOW_ENDGAME_T2_ONE_HAND_MACES = False           # Controls good one hand mace bases for endgame
+
+# Show/Hide settings for Two Hand Maces
+SHOW_ENDGAME_T1_TWO_HAND_MACES = False           # Controls best two hand mace bases for endgame
+SHOW_ENDGAME_T2_TWO_HAND_MACES = False           # Controls good two hand mace bases for endgame
+
+# Show/Hide settings for Bows
+SHOW_ENDGAME_T1_BOWS = False                     # Controls best bow bases for endgame
+SHOW_ENDGAME_T2_BOWS = False                     # Controls good bow bases for endgame
+
+# Show/Hide settings for Crossbows
+SHOW_ENDGAME_T1_CROSSBOWS = False                # Controls best crossbow bases for endgame
+SHOW_ENDGAME_T2_CROSSBOWS = False                # Controls good crossbow bases for endgame
+
+# Show/Hide settings for QUARTERSTAVES
+SHOW_ENDGAME_T1_QUARTERSTAVES = True            # Controls best quarterstaff bases for endgame
+SHOW_ENDGAME_T2_QUARTERSTAVES = False            # Controls good quarterstaff bases for endgame
+
+
+"""
+The next section allows you to set styles for minimap icons as well as sound alert, 
+textbox colors and font size. The minimap icon choices are listed above, the size options include
+Small, Medium, Large. Sound alerts are values 1-16. Max font size is 45 (default is 30).
+"""
+
+======================
+### STYLE SETTINGS ###
+======================
+
+# Leveling styles
+Leveling Armour {
+    SetBackgroundColor: 100 0 0 255
+    SetBorderColor: 255 0 0 255
+    SetFontSize: 40
+}
+
+Leveling Evasion {
+    SetBackgroundColor: 0 100 0 255
+    SetBorderColor: 0 255 0 255
+    SetFontSize: 40
+}
+
+Leveling ES {
+    SetBackgroundColor: 0 0 100 255
+    SetBorderColor: 0 0 255 255
+    SetFontSize: 40
+}
+
+Leveling Armour Evasion {
+    SetBackgroundColor: 0 100 0 255
+    SetBorderColor: 255 0 0 255
+    SetFontSize: 40
+}
+
+Leveling Armour ES {
+    SetBackgroundColor: 0 0 100 255
+    SetBorderColor: 255 0 0 255
+    SetFontSize: 40
+}
+
+Leveling Evasion ES {
+    SetBackgroundColor: 0 0 100 255
+    SetBorderColor: 0 255 0 255
+    SetFontSize: 40
+}
+
+# Endgame styles
+Endgame Tier 1 {
+    PlayAlertSound: 1
+    MinimapIconSize: Large
+    MinimapIconColour: Purple
+    MinimapIconShape: Square
+    PlayEffect: Purple
+    SetBackgroundColor: 50 0 50 255
+    SetBorderColor: 255 0 255 255
+    SetFontSize: 45
+}
+
+Endgame Tier 2 {
+    PlayAlertSound: 2
+    MinimapIconSize: Medium
+    MinimapIconColour: Blue
+    MinimapIconShape: Square
+    PlayEffect: Blue
+    SetBackgroundColor: 0 0 50 255
+    SetBorderColor: 0 0 255 255
+    SetFontSize: 40
+}
+
+# Special weapon styles
+Caster Weapon {
+    PlayAlertSound: 3
+    MinimapIconSize: Medium
+    MinimapIconColour: Cyan
+    MinimapIconShape: Star
+    PlayEffect: Cyan
+    SetBackgroundColor: 0 0 0 255
+    SetBorderColor: 0 255 255 255
+    SetFontSize: 45
+}
+
+Leveling Martial Weapon {
+    PlayAlertSound: 3
+    MinimapIconSize: Medium
+    MinimapIconColour: Red
+    MinimapIconShape: Star
+    PlayEffect: Red
+    SetBackgroundColor: 0 0 0 255
+    SetBorderColor: 255 0 0 255
+    SetFontSize: 45
+}

@@ -1,0 +1,131 @@
+Hermit Garb (Area Level 1-11)
+Evasion Rating: 16
+Energy Shield: 16
+Movement Speed: -3%
+
+Waxed Jacket (Area Level 9-16)
+Evasion Rating: 43
+Energy Shield: 24
+Movement Speed: -3%
+Requires: Level 11, 14 Dex, 14 Int
+
+Marabout Garb (Area Level 14-28)
+Evasion Rating: 56
+Energy Shield: 28
+Movement Speed: -3%
+Requires: Level 16, 20 Dex, 20 Int
+
+Wayfarer Jacket (Area Level 26-33)
+Evasion Rating: 88
+Energy Shield: 39
+Movement Speed: -3%
+Requires: Level 28, 33 Dex, 33 Int
+
+Anchorite Garb (Area Level 31-39)
+Evasion Rating: 101
+Energy Shield: 43
+Movement Speed: -3%
+Requires: Level 33, 39 Dex, 39 Int
+
+Scalper's Jacket (Area Level 37-45)
+Evasion Rating: 117
+Energy Shield: 48
+Movement Speed: -3%
+Requires: Level 39, 45 Dex, 45 Int
+
+Scoundrel Jacket (Area Level 43-48)
+Advanced Hermit Garb (Area Level 43-48)
+Evasion Rating: 133
+Energy Shield: 53
+Movement Speed: -3%
+Requires: Level 45, 51 Dex, 51 Int
+
+Advanced Waxed Jacket (Area Level 46-51)
+Evasion Rating: 141
+Energy Shield: 56
+Movement Speed: -3%
+Requires: Level 48, 55 Dex, 55 Int
+
+Advanced Marabout Garb (Area Level 49-52)
+Evasion Rating: 149
+Energy Shield: 58
+Movement Speed: -3%
+Requires: Level 51, 59 Dex, 59 Int
+
+Clandestine Jacket (Area Level 50-54)
+Evasion Rating: 151
+Energy Shield: 59
+Movement Speed: -3%
+Requires: Level 52, 59 Dex, 59 Int
+
+Advanced Wayfarer Jacket (Area Level 53-59)
+Evasion Rating: 159
+Energy Shield: 62
+Movement Speed: -3%
+Requires: Level 55, 62 Dex, 62 Int
+
+Monastic Garb (Area Level 54-59)
+Evasion Rating: 162
+Energy Shield: 63
+Movement Speed: -3%
+Requires: Level 56, 64 Dex, 64 Int
+
+Advanced Anchorite Garb (Area Level 57-62)
+Evasion Rating: 170
+Energy Shield: 65
+Movement Speed: -3%
+Requires: Level 59, 67 Dex, 67 Int
+
+Advanced Scalper's Jacket (Area Level 60-65)
+Evasion Rating: 178
+Energy Shield: 68
+Movement Speed: -3%
+Requires: Level 62, 70 Dex, 70 Int
+
+# Endgame bases below (level 65+)
+
+Torment Jacket (Area Level 63+)
+Tier 1
+Evasion Rating: 268
+Energy Shield: 101
+Movement Speed: -3%
+Requires: Level 65, 86 Dex, 86 Int
+
+Devout Garb (Area Level 66+)
+Tier 2
+Evasion Rating: 223
+Energy Shield: 84
+Movement Speed: -3%
+Requires: Level 68, 86 Dex, 86 Int
++(7–13)% to Chaos Resistance
+
+Assassin Garb (Area Level 71+)
+Tier 2
+Evasion Rating: 223
+Energy Shield: 84
+Movement Speed: -3%
+Requires: Level 73, 86 Dex, 86 Int
+5% increased Movement Speed
+
+Expert Waxed Jacket (Area Level 63+)
+Tier 1
+Evasion Rating: 268
+Energy Shield: 101
+Movement Speed: -3%
+Requires: Level 65, 86 Dex, 86 Int
+
+Expert Scalper's Jacket (Area Level 73+)
+Tier 2
+Evasion Rating: 223
+Energy Shield: 84
+Movement Speed: -3%
+Requires: Level 75, 86 Dex, 86 Int
+5% increased Movement Speed
+
+Expert Wayfarer Jacket (Area Level 68+)
+Tier 2
+Evasion Rating: 223
+Energy Shield: 84
+Movement Speed: -3%
+Requires: Level 70, 86 Dex, 86 Int
++(7–13)% to Chaos Resistance

@@ -1,0 +1,63 @@
+Rope Cuffs (Area Level 3-16)
+Armour: 12
+Energy Shield: 6
+Requires: Level 5, 6 Str, 6 Int
+
+Aged Cuffs (Area Level 14-33)
+Armour: 22
+Energy Shield: 9
+Requires: Level 16, 15 Str, 15 Int
+
+Goldcast Cuffs (Area Level 31-45)
+Armour: 37
+Energy Shield: 14
+Requires: Level 33, 30 Str, 30 Int
+
+Diviner Cuffs (Area Level 43-51)
+Armour: 48
+Energy Shield: 17
+Requires: Level 45, 40 Str, 40 Int
+
+Advanced Rope Cuffs (Area Level 43-51)
+Armour: 48
+Energy Shield: 17
+Requires: Level 45, 40 Str, 40 Int
+
+Advanced Aged Cuffs (Area Level 49-52)
+Armour: 54
+Energy Shield: 19
+Requires: Level 51, 46 Str, 46 Int
+
+Righteous Cuffs (Area Level 50-59)
+Armour: 55
+Energy Shield: 19
+Requires: Level 52, 46 Str, 46 Int
+
+Advanced Goldcast Cuffs (Area Level 57-65)
+Armour: 61
+Energy Shield: 21
+Requires: Level 59, 52 Str, 52 Int
+
+Signet Cuffs (Area Level 63+)
+Tier 2
+Armour: 67
+Energy Shield: 23
+Requires: Level 65, 57 Str, 57 Int
+
+Expert Rope Cuffs (Area Level 63+)
+Tier 2
+Armour: 67
+Energy Shield: 23
+Requires: Level 65, 57 Str, 57 Int
+
+Expert Aged Cuffs (Area Level 68+)
+Tier 2
+Armour: 74
+Energy Shield: 25
+Requires: Level 70, 62 Str, 62 Int
+
+Expert Goldcast Cuffs (Area Level 73+)
+Tier 1
+Armour: 80
+Energy Shield: 28
+Requires: Level 75, 67 Str, 67 Int

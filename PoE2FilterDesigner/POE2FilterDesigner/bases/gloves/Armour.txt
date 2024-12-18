@@ -1,0 +1,62 @@
+Stocky Mitts (Area Level 1-11)
+Armour: 15
+
+Riveted Mitts (Area Level 9-16)
+Armour: 31
+Requires: Level 11, 19 Str
+
+Tempered Mitts (Area Level 14-27)
+Armour: 40
+Requires: Level 16, 27 Str
+
+Bolstered Mitts (Area Level 25-33)
+Armour: 58
+Requires: Level 27, 44 Str
+
+Moulded Mitts (Area Level 31-45)
+Armour: 68
+Requires: Level 33, 53 Str
+
+Detailed Mitts (Area Level 43-51)
+Armour: 88
+Requires: Level 45, 73 Str
+
+Advanced Riveted Mitts (Area Level 43-51)
+Armour: 88
+Requires: Level 45, 73 Str
+
+Advanced Tempered Mitts (Area Level 49-52)
+Armour: 98
+Requires: Level 51, 82 Str
+
+Titan Mitts (Area Level 50-55)
+Armour: 100
+Requires: Level 52, 83 Str
+
+Advanced Bolstered Mitts (Area Level 53-59)
+Armour: 105
+Requires: Level 55, 88 Str
+
+Advanced Moulded Mitts (Area Level 57-65)
+Armour: 111
+Requires: Level 59, 95 Str
+
+Grand Mitts (Area Level 63+)
+Tier 2
+Armour: 122
+Requires: Level 65, 104 Str
+
+Expert Riveted Mitts (Area Level 63+)
+Tier 2
+Armour: 122
+Requires: Level 65, 104 Str
+
+Expert Bolstered Mitts (Area Level 68+)
+Tier 2
+Armour: 134
+Requires: Level 70, 113 Str
+
+Expert Moulded Mitts (Area Level 73+)
+Tier 1
+Armour: 146
+Requires: Level 75, 122 Str

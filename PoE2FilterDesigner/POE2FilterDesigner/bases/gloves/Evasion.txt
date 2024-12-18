@@ -1,0 +1,62 @@
+Suede Bracers (Area Level 1-11)
+Evasion Rating: 10
+
+Firm Bracers (Area Level 9-16)
+Evasion Rating: 26
+Requires: Level 11, 19 Dex
+
+Bound Bracers (Area Level 14-28)
+Evasion Rating: 33
+Requires: Level 16, 27 Dex
+
+Sectioned Bracers (Area Level 26-33)
+Evasion Rating: 52
+Requires: Level 28, 46 Dex
+
+Spined Bracers (Area Level 31-45)
+Evasion Rating: 60
+Requires: Level 33, 53 Dex
+
+Fine Bracers (Area Level 43-51)
+Evasion Rating: 79
+Requires: Level 45, 73 Dex
+
+Advanced Firm Bracers (Area Level 43-51)
+Evasion Rating: 79
+Requires: Level 45, 73 Dex
+
+Advanced Bound Bracers (Area Level 49-52)
+Evasion Rating: 89
+Requires: Level 51, 82 Dex
+
+Hardened Bracers (Area Level 50-55)
+Evasion Rating: 90
+Requires: Level 52, 83 Dex
+
+Advanced Sectioned Bracers (Area Level 53-59)
+Evasion Rating: 95
+Requires: Level 55, 88 Dex
+
+Advanced Spined Bracers (Area Level 57-65)
+Evasion Rating: 101
+Requires: Level 59, 95 Dex
+
+Engraved Bracers (Area Level 63+)
+Tier 2
+Evasion Rating: 111
+Requires: Level 65, 104 Dex
+
+Expert Firm Bracers (Area Level 63+)
+Tier 2
+Evasion Rating: 111
+Requires: Level 65, 104 Dex
+
+Expert Sectioned Bracers (Area Level 68+)
+Tier 2
+Evasion Rating: 122
+Requires: Level 70, 113 Dex
+
+Expert Spined Bracers (Area Level 73+)
+Tier 1
+Evasion Rating: 133
+Requires: Level 75, 122 Dex

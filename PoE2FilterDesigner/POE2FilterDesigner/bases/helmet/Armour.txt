@@ -1,0 +1,78 @@
+Rusted Greathelm (Area Level 1-12)
+Armour: 29
+
+Soldier Greathelm (Area Level 10-16)
+Armour: 66
+Requires: Level 12, 23 Str
+
+Wrapped Greathelm (Area Level 14-27)
+Armour: 79
+Requires: Level 16, 30 Str
+
+Spired Greathelm (Area Level 25-33)
+Armour: 116
+Requires: Level 27, 50 Str
+
+Elite Greathelm (Area Level 31-36)
+Armour: 136
+Requires: Level 33, 61 Str
+
+Warrior Greathelm (Area Level 34-45)
+Armour: 146
+Requires: Level 36, 66 Str
+
+Commander Greathelm (Area Level 43-48)
+Armour: 176
+Requires: Level 45, 83 Str
+
+Advanced Rusted Greathelm (Area Level 43-48)
+Armour: 176
+Requires: Level 45, 83 Str
+
+Advanced Soldier Greathelm (Area Level 46-51)
+Armour: 186
+Requires: Level 48, 88 Str
+
+Advanced Wrapped Greathelm (Area Level 49-52)
+Armour: 196
+Requires: Level 51, 94 Str
+
+Fierce Greathelm (Area Level 49-52)
+Armour: 196
+Requires: Level 51, 94 Str
+
+Dueling Greathelm (Area Level 50-55)
+Armour: 200
+Requires: Level 52, 95 Str
+
+Advanced Spired Greathelm (Area Level 53-57)
+Armour: 210
+Requires: Level 55, 101 Str
+
+Goliath Greathelm (Area Level 55-59)
+Armour: 216
+Requires: Level 57, 104 Str
+
+Advanced Elite Greathelm (Area Level 57-65)
+Armour: 223
+Requires: Level 59, 108 Str
+
+Guardian Greathelm (Area Level 63+)
+Tier 2
+Armour: 243
+Requires: Level 65, 118 Str
+
+Expert Soldier Greathelm (Area Level 63+)
+Tier 2
+Armour: 243
+Requires: Level 65, 118 Str
+
+Expert Spired Greathelm (Area Level 68+)
+Tier 2
+Armour: 267
+Requires: Level 70, 129 Str
+
+Expert Elite Greathelm (Area Level 73+)
+Tier 1
+Armour: 292
+Requires: Level 75, 139 Str

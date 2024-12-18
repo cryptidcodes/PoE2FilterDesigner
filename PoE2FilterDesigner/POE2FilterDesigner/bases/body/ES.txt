@@ -1,0 +1,127 @@
+Tattered Robe (Area Level 1-5)
+Energy Shield: 28
+Movement Speed: -3%
+
+Feathered Robe (Area Level 3-11)
+Energy Shield: 35
+Movement Speed: -3%
+Requires: Level 5, 13 Int
+
+Hexer's Robe (Area Level 9-16)
+Energy Shield: 44
+Movement Speed: -3%
+Requires: Level 11, 24 Int
+
+Bone Raiment (Area Level 14-22)
+Energy Shield: 52
+Movement Speed: -3%
+Requires: Level 16, 34 Int
+
+Silk Robe (Area Level 20-28)
+Energy Shield: 61
+Movement Speed: -3%
+Requires: Level 22, 47 Int
+
+Keth Raiment (Area Level 26-33)
+Energy Shield: 70
+Movement Speed: -3%
+Requires: Level 28, 59 Int
+
+Votive Raiment (Area Level 31-40)
+Energy Shield: 78
+Movement Speed: -3%
+Requires: Level 33, 68 Int
+
+Altar Robe (Area Level 38-45)
+Energy Shield: 89
+Movement Speed: -3%
+Requires: Level 40, 83 Int
+
+Elementalist Robe (Area Level 43-47)
+Energy Shield: 97
+Movement Speed: -3%
+Requires: Level 45, 94 Int
+
+Advanced Feathered Robe (Area Level 43-47)
+Energy Shield: 97
+Movement Speed: -3%
+Requires: Level 45, 94 Int
+
+Mystic Raiment (Area Level 45-48)
+Energy Shield: 100
+Movement Speed: -3%
+Requires: Level 47, 97 Int
+
+Advanced Hexer's Robe (Area Level 46-51)
+Energy Shield: 101
+Movement Speed: -3%
+Requires: Level 48, 99 Int
+
+Advanced Silk Robe (Area Level 49-52)
+Energy Shield: 106
+Movement Speed: -3%
+Requires: Level 51, 105 Int
+
+Imperial Robe (Area Level 50-55)
+Energy Shield: 108
+Movement Speed: -3%
+Requires: Level 52, 107 Int
+
+Advanced Keth Raiment (Area Level 53-58)
+Energy Shield: 112
+Movement Speed: -3%
+Requires: Level 55, 113 Int
+
+Plated Raiment (Area Level 56-59)
+Energy Shield: 117
+Movement Speed: -3%
+Requires: Level 58, 120 Int
+
+Advanced Votive Raiment (Area Level 57-62)
+Energy Shield: 119
+Movement Speed: -3%
+Requires: Level 59, 122 Int
+
+Advanced Altar Robe (Area Level 60-65)
+Energy Shield: 123
+Movement Speed: -3%
+Requires: Level 62, 128 Int
+
+Expert Hexer's Robe (Area Level 63+)
+Tier 1
+Energy Shield: 184
+Movement Speed: -3%
+Requires: Level 65, 157 Int
+
+Havoc Raiment (Area Level 63+)
+Tier 1
+Energy Shield: 184
+Movement Speed: -3%
+Requires: Level 65, 157 Int
+
+Expert Keth Raiment (Area Level 68+)
+Tier 2
+Energy Shield: 153
+Movement Speed: -3%
+Requires: Level 70, 157 Int
+(40–50)% increased Mana Regeneration Rate
+
+Enlightened Robe (Area Level 66+)
+Tier 2
+Energy Shield: 153
+Movement Speed: -3%
+Requires: Level 68, 157 Int
+(40–50)% increased Mana Regeneration Rate
+
+Arcane Robe (Area Level 71+)
+Energy Shield: 153
+Movement Speed: -3%
+Requires: Level 73, 157 Int
+(40–50)% faster start of Energy Shield Recharge
+
+Expert Altar Robe (Area Level 73+)
+Tier 2
+Energy Shield: 153
+Movement Speed: -3%
+Requires: Level 75, 157 Int
+(40–50)% faster start of Energy Shield Recharge

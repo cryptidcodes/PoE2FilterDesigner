@@ -1,0 +1,62 @@
+Rough Greaves (Area Level 1-11)
+Armour: 22
+
+Iron Greaves (Area Level 9-16)
+Armour: 47
+Requires: Level 11, 20 Str
+
+Bronze Greaves (Area Level 14-27)
+Armour: 60
+Requires: Level 16, 29 Str
+
+Trimmed Greaves (Area Level 25-33)
+Armour: 87
+Requires: Level 27, 47 Str
+
+Stone Greaves (Area Level 31-45)
+Armour: 102
+Requires: Level 33, 57 Str
+
+Reefsteel Greaves (Area Level 43-51)
+Armour: 132
+Requires: Level 45, 78 Str
+
+Advanced Iron Greaves (Area Level 43-51)
+Armour: 132
+Requires: Level 45, 78 Str
+
+Advanced Bronze Greaves (Area Level 49-52)
+Armour: 147
+Requires: Level 51, 88 Str
+
+Monument Greaves (Area Level 50-55)
+Armour: 150
+Requires: Level 52, 89 Str
+
+Advanced Trimmed Greaves (Area Level 53-59)
+Armour: 157
+Requires: Level 55, 95 Str
+
+Advanced Stone Greaves (Area Level 57-65)
+Armour: 167
+Requires: Level 59, 101 Str
+
+Expert Iron Greaves (Area Level 63+)
+Tier 2
+Armour: 182
+Requires: Level 65, 111 Str
+
+Totemic Greaves (Area Level 63+)
+Tier 2
+Armour: 182
+Requires: Level 65, 111 Str
+
+Expert Trimmed Greaves (Area Level 68+)
+Tier 2
+Armour: 200
+Requires: Level 70, 121 Str
+
+Expert Stone Greaves (Area Level 73+)
+Tier 1
+Armour: 219
+Requires: Level 75, 131 Str

@@ -1,0 +1,63 @@
+Rattling Sceptre
+Spirit: 100
+ Grants Skill: Skeletal Warrior
+
+Stoic Sceptre
+Spirit: 100
+Requires: Level 6
+ Grants Skill: Discipline
+
+Lupine Sceptre
+Spirit: 100
+Requires: Level 12
+ Grants Skill: Skeletal Warrior
+
+Omen Sceptre
+Spirit: 100
+Requires: Level 16
+ Grants Skill: Malice
+
+Ochre Sceptre
+Spirit: 100
+Requires: Level 21
+ Grants Skill: Skeletal Warrior
+
+Shrine Sceptre
+Spirit: 100
+Requires: Level 26
+ Grants Skill: Purity of Fire
+
+Devouring Sceptre
+Spirit: 100
+Requires: Level 33
+ Grants Skill: Skeletal Warrior
+
+Clasped Sceptre
+Spirit: 100
+Requires: Level 36
+ Grants Skill: Skeletal Warrior
+
+Devotional Sceptre
+Spirit: 100
+Requires: Level 45
+ Grants Skill: Skeletal Warrior
+
+Wrath Sceptre
+Spirit: 100
+Requires: Level 49
+ Grants Skill: Skeletal Warrior
+
+Aromatic Sceptre
+Spirit: 100
+Requires: Level 52
+ Grants Skill: Skeletal Warrior
+
+Pious Sceptre
+Spirit: 100
+Requires: Level 58
+ Grants Skill: Skeletal Warrior
+
+Hallowed Sceptre
+Spirit: 100
+Requires: Level 65
+ Grants Skill: Skeletal Warrior

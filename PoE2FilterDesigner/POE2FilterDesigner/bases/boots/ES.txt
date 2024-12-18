@@ -1,0 +1,62 @@
+Straw Sandals (Area Level 1-11)
+Energy Shield: 14
+
+Wrapped Sandals (Area Level 9-16)
+Energy Shield: 22
+Requires: Level 11, 20 Int
+
+Lattice Sandals (Area Level 14-27)
+Energy Shield: 25
+Requires: Level 16, 29 Int
+
+Silk Slippers (Area Level 25-33)
+Energy Shield: 34
+Requires: Level 27, 47 Int
+
+Feathered Sandals (Area Level 31-45)
+Energy Shield: 38
+Requires: Level 33, 57 Int
+
+Flax Sandals (Area Level 43-51)
+Energy Shield: 48
+Requires: Level 45, 78 Int
+
+Advanced Wrapped Sandals (Area Level 43-51)
+Energy Shield: 48
+Requires: Level 45, 78 Int
+
+Advanced Lattice Sandals (Area Level 49-52)
+Energy Shield: 52
+Requires: Level 51, 88 Int
+
+Studded Sandals (Area Level 50-55)
+Energy Shield: 53
+Requires: Level 52, 89 Int
+
+Advanced Silk Slippers (Area Level 53-59)
+Energy Shield: 55
+Requires: Level 55, 95 Int
+
+Advanced Feathered Sandals (Area Level 57-65)
+Energy Shield: 58
+Requires: Level 59, 101 Int
+
+Elaborate Sandals (Area Level 63+)
+Tier 2
+Energy Shield: 63
+Requires: Level 65, 111 Int
+
+Expert Wrapped Sandals (Area Level 63+)
+Tier 2
+Energy Shield: 63
+Requires: Level 65, 111 Int
+
+Expert Silk Slippers (Area Level 68+)
+Tier 2
+Energy Shield: 69
+Requires: Level 70, 121 Int
+
+Expert Feathered Sandals (Area Level 73+)
+Tier 1
+Energy Shield: 75
+Requires: Level 75, 131 Int

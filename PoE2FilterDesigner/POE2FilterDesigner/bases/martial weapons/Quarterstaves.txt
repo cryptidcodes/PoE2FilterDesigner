@@ -1,0 +1,189 @@
+Wrapped Quarterstaff (Area Level 1-4)
+Physical Damage: 7-12
+Critical Hit Chance: 10%
+Attacks per Second: 1.4
+Weapon Range: 1.3
+
+Long Quarterstaff (Area Level 2-11)
+Physical Damage: 9-18
+Critical Hit Chance: 10%
+Attacks per Second: 1.4
+Weapon Range: 1.3
+Requires: Level 4, 10 Dex
+16% increased Range
+
+Gothic Quarterstaff (Area Level 9-16)
+Physical Damage: 16-26
+Critical Hit Chance: 11.5%
+Attacks per Second: 1.4
+Weapon Range: 1.3
+Requires: Level 11, 22 Dex, 11 Int
+
+Crackling Quarterstaff (Area Level 14-20)
+Physical Damage: 13-54
+Critical Hit Chance: 10%
+Attacks per Second: 1.4
+Weapon Range: 1.3
+Requires: Level 16, 30 Dex, 14 Int
+local weapon implicit hidden % base damage is lightning [100]
+
+Crescent Quarterstaff (Area Level 18-28)
+Physical Damage: 19-39
+Critical Hit Chance: 10%
+Attacks per Second: 1.5
+Weapon Range: 1.3
+Requires: Level 20, 37 Dex, 16 Int
+
+Steelpoint Quarterstaff (Area Level 26-33)
+Physical Damage: 28-51
+Critical Hit Chance: 10%
+Attacks per Second: 1.4
+Weapon Range: 1.3
+Requires: Level 28, 51 Dex, 22 Int
+
+Slicing Quarterstaff (Area Level 31-37)
+Physical Damage: 29-60
+Critical Hit Chance: 10%
+Attacks per Second: 1.4
+Weapon Range: 1.3
+Requires: Level 33, 60 Dex, 25 Int
+
+Barrier Quarterstaff (Area Level 35-45)
+Physical Damage: 33-55
+Critical Hit Chance: 10%
+Attacks per Second: 1.4
+Weapon Range: 1.3
+Requires: Level 37, 67 Dex, 27 Int
++(10–15)% to Block chance
+
+Hefty Quarterstaff (Area Level 43-47)
+Physical Damage: 39-80
+Critical Hit Chance: 10%
+Attacks per Second: 1.35
+Weapon Range: 1.3
+Requires: Level 45, 81 Dex, 33 Int
+
+Advanced Long Quarterstaff (Area Level 43-47)
+Physical Damage: 35-72
+Critical Hit Chance: 10%
+Attacks per Second: 1.4
+Weapon Range: 1.3
+Requires: Level 45, 81 Dex, 33 Int
+16% increased Range
+
+Smooth Quarterstaff (Area Level 45-48)
+Physical Damage: 62-84
+Critical Hit Chance: 0%
+Attacks per Second: 1.5
+Weapon Range: 1.3
+Requires: Level 47, 84 Dex, 34 Int
+
+Advanced Gothic Quarterstaff (Area Level 46-51)
+Physical Damage: 43-72
+Critical Hit Chance: 11.5%
+Attacks per Second: 1.4
+Weapon Range: 1.3
+Requires: Level 48, 86 Dex, 35 Int
+
+Advanced Crackling Quarterstaff (Area Level 49-52)
+Physical Damage: 30-57
+Critical Hit Chance: 10%
+Attacks per Second: 1.4
+Weapon Range: 1.3
+Requires: Level 51, 91 Dex, 36 Int
+local weapon implicit hidden % base damage is lightning [100]
+
+Anima Quarterstaff (Area Level 50-55)
+Physical Damage: 47-79
+Critical Hit Chance: 10%
+Attacks per Second: 1.4
+Weapon Range: 1.3
+Requires: Level 52, 93 Dex, 37 Int
+
+Advanced Crescent Quarterstaff (Area Level 53-56)
+Physical Damage: 40-83
+Critical Hit Chance: 10%
+Attacks per Second: 1.5
+Weapon Range: 1.3
+Requires: Level 55, 98 Dex, 39 Int
+
+Graceful Quarterstaff (Area Level 54-59)
+Physical Damage: 47-87
+Critical Hit Chance: 10%
+Attacks per Second: 1.4
+Weapon Range: 1.3
+Requires: Level 56, 100 Dex, 40 Int
+
+Advanced Slicing Quarterstaff (Area Level 57-62)
+Physical Damage: 45-94
+Critical Hit Chance: 10%
+Attacks per Second: 1.4
+Weapon Range: 1.3
+Requires: Level 59, 105 Dex, 42 Int
+
+Advanced Barrier Quarterstaff (Area Level 60-65)
+Physical Damage: 49-82
+Critical Hit Chance: 10%
+Attacks per Second: 1.4
+Weapon Range: 1.3
+Requires: Level 62, 110 Dex, 44 Int
++(10–15)% to Block chance
+
+Wyrm Quarterstaff (Area Level 63+)
+Tier 2
+Physical Damage: 57-94
+Critical Hit Chance: 10%
+Attacks per Second: 1.4
+Weapon Range: 1.3
+Requires: Level 65, 116 Dex, 45 Int
+
+Expert Gothic Quarterstaff (Area Level 65+)
+Tier 1
+Physical Damage: 55-92
+Critical Hit Chance: 11.5%
+Attacks per Second: 1.4
+Weapon Range: 1.3
+Requires: Level 67, 135 Dex, 53 Int
+
+Expert Crescent Quarterstaff (Area Level 70+)
+Tier 1
+Physical Damage: 50-103
+Critical Hit Chance: 10%
+Attacks per Second: 1.5
+Weapon Range: 1.3
+Requires: Level 72, 150 Dex, 59 Int
+
+Expert Long Quarterstaff (Area Level 75+)
+Tier 1
+Physical Damage: 53-111
+Critical Hit Chance: 10%
+Attacks per Second: 1.4
+Weapon Range: 1.3
+Requires: Level 77, 165 Dex, 64 Int
+16% increased Range
+
+Expert Slicing Quarterstaff (Area Level 75+)
+Tier 1
+Physical Damage: 65-108
+Critical Hit Chance: 10%
+Attacks per Second: 1.4
+Weapon Range: 1.3
+Requires: Level 77, 165 Dex, 64 Int
+
+Expert Crackling Quarterstaff (Area Level 76+)
+Tier 2
+Physical Damage: 43-172
+Critical Hit Chance: 10%
+Attacks per Second: 1.4
+Weapon Range: 1.3
+Requires: Level 78, 165 Dex, 64 Int
+local weapon implicit hidden % base damage is lightning [100]
+
+Expert Barrier Quarterstaff (Area Level 77+)
+Tier 2
+Physical Damage: 58-97
+Critical Hit Chance: 10%
+Attacks per Second: 1.4
+Weapon Range: 1.3
+Requires: Level 79, 165 Dex, 64 Int
++(10–15)% to Block chance

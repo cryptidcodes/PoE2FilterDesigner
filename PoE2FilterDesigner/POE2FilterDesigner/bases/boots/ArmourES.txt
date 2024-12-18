@@ -1,0 +1,63 @@
+Padded Leggings (Area Level 3-16)
+Armour: 18
+Energy Shield: 9
+Requires: Level 5, 7 Str, 7 Int
+
+Secured Leggings (Area Level 14-33)
+Armour: 33
+Energy Shield: 14
+Requires: Level 16, 17 Str, 17 Int
+
+Pelt Leggings (Area Level 31-45)
+Armour: 56
+Energy Shield: 21
+Requires: Level 33, 32 Str, 32 Int
+
+Weaver Leggings (Area Level 43-51)
+Armour: 73
+Energy Shield: 26
+Requires: Level 45, 43 Str, 43 Int
+
+Advanced Padded Leggings (Area Level 43-51)
+Armour: 73
+Energy Shield: 26
+Requires: Level 45, 43 Str, 43 Int
+
+Advanced Secured Leggings (Area Level 49-52)
+Armour: 81
+Energy Shield: 29
+Requires: Level 51, 49 Str, 49 Int
+
+Gilt Leggings (Area Level 50-59)
+Armour: 82
+Energy Shield: 29
+Requires: Level 52, 50 Str, 50 Int
+
+Advanced Pelt Leggings (Area Level 57-65)
+Armour: 92
+Energy Shield: 32
+Requires: Level 59, 56 Str, 56 Int
+
+Pious Leggings (Area Level 63+)
+Tier 2
+Armour: 100
+Energy Shield: 35
+Requires: Level 65, 61 Str, 61 Int
+
+Expert Padded Leggings (Area Level 63+)
+Tier 2
+Armour: 100
+Energy Shield: 35
+Requires: Level 65, 61 Str, 61 Int
+
+Expert Secured Leggings (Area Level 68+)
+Tier 2
+Armour: 110
+Energy Shield: 38
+Requires: Level 70, 66 Str, 66 Int
+
+Expert Pelt Leggings (Area Level 73+)
+Tier 1
+Armour: 120
+Energy Shield: 42
+Requires: Level 75, 71 Str, 71 Int

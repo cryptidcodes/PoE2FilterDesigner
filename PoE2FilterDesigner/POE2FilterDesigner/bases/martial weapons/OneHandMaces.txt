@@ -1,0 +1,190 @@
+Wooden Club (Area Level 1-4)
+Physical Damage: 6-10
+Critical Hit Chance: 5%
+Attacks per Second: 1.45
+Weapon Range: 1.1
+
+Smithing Hammer (Area Level 2-10)
+Physical Damage: 9-15
+Critical Hit Chance: 5%
+Attacks per Second: 1.45
+Weapon Range: 1.1
+Requires: Level 4, 11 Str
+local weapon implicit hidden % base damage is fire [50]
+
+Slim Mace (Area Level 8-16)
+Physical Damage: 11-17
+Critical Hit Chance: 5%
+Attacks per Second: 1.55
+Weapon Range: 1.1
+Requires: Level 10, 25 Str
+
+Spiked Club (Area Level 14-22)
+Physical Damage: 15-24
+Critical Hit Chance: 5%
+Attacks per Second: 1.45
+Weapon Range: 1.1
+Requires: Level 16, 38 Str
+
+Warpick (Area Level 20-26)
+Physical Damage: 18-24
+Critical Hit Chance: 8%
+Attacks per Second: 1.45
+Weapon Range: 1.1
+Requires: Level 22, 52 Str
++(30–40)% to Critical Damage Bonus
+
+Plated Mace (Area Level 24-33)
+Physical Damage: 18-38
+Critical Hit Chance: 5%
+Attacks per Second: 1.4
+Weapon Range: 1.1
+Requires: Level 26, 61 Str
+
+Brigand Mace (Area Level 31-36)
+Physical Damage: 28-38
+Critical Hit Chance: 5%
+Attacks per Second: 1.45
+Weapon Range: 1.1
+Requires: Level 33, 76 Str
+
+Construct Hammer (Area Level 34-45)
+Physical Damage: 31-38
+Critical Hit Chance: 5%
+Attacks per Second: 1.4
+Weapon Range: 1.1
+Requires: Level 36, 83 Str
+Causes Daze buildup equal to 100% of Damage dealt
+
+Morning Star (Area Level 43-48)
+Physical Damage: 33-49
+Critical Hit Chance: 6.5%
+Attacks per Second: 1.45
+Weapon Range: 1.1
+Requires: Level 45, 104 Str
+
+Advanced Smithing Hammer (Area Level 43-48)
+Physical Damage: 38-64
+Critical Hit Chance: 5%
+Attacks per Second: 1.45
+Weapon Range: 1.1
+Requires: Level 45, 104 Str
+local weapon implicit hidden % base damage is fire [50]
+
+Jade Club (Area Level 46-51)
+Physical Damage: 30-50
+Critical Hit Chance: 5%
+Attacks per Second: 1.45
+Weapon Range: 1.1
+Requires: Level 48, 110 Str
+Always Hits
+
+Advanced Slim Mace (Area Level 46-51)
+Physical Damage: 33-50
+Critical Hit Chance: 5%
+Attacks per Second: 1.55
+Weapon Range: 1.1
+Requires: Level 48, 110 Str
+
+Advanced Warpick (Area Level 49-52)
+Physical Damage: 34-46
+Critical Hit Chance: 8%
+Attacks per Second: 1.45
+Weapon Range: 1.1
+Requires: Level 51, 117 Str
++(30–40)% to Critical Damage Bonus
+
+Lumen Mace (Area Level 50-55)
+Physical Damage: 36-60
+Critical Hit Chance: 5%
+Attacks per Second: 1.45
+Weapon Range: 1.1
+Requires: Level 52, 119 Str
+
+Execratus Hammer (Area Level 53-59)
+Physical Damage: 40-60
+Critical Hit Chance: 5%
+Attacks per Second: 1.45
+Weapon Range: 1.1
+Requires: Level 55, 126 Str
+
+Advanced Plated Mace (Area Level 53-59)
+Physical Damage: 34-70
+Critical Hit Chance: 5%
+Attacks per Second: 1.4
+Weapon Range: 1.1
+Requires: Level 55, 126 Str
+
+Advanced Brigand Mace (Area Level 57-62)
+Physical Damage: 45-61
+Critical Hit Chance: 5%
+Attacks per Second: 1.45
+Weapon Range: 1.1
+Requires: Level 59, 135 Str
+
+Advanced Construct Hammer (Area Level 60-65)
+Physical Damage: 49-60
+Critical Hit Chance: 5%
+Attacks per Second: 1.4
+Weapon Range: 1.1
+Requires: Level 62, 142 Str
+Causes Daze buildup equal to 100% of Damage dealt
+
+Torment Club (Area Level 63+)
+Tier 2
+Physical Damage: 44-73
+Critical Hit Chance: 5%
+Attacks per Second: 1.45
+Weapon Range: 1.1
+Requires: Level 65, 148 Str
+
+Expert Slim Mace (Area Level 65+)
+Tier 2
+Physical Damage: 45-67
+Critical Hit Chance: 5%
+Attacks per Second: 1.55
+Weapon Range: 1.1
+Requires: Level 67, 174 Str
+
+Expert Plated Mace (Area Level 70+)
+Tier 2
+Physical Damage: 43-89
+Critical Hit Chance: 5%
+Attacks per Second: 1.4
+Weapon Range: 1.1
+Requires: Level 72, 193 Str
+
+Expert Smithing Hammer (Area Level 75+)
+Tier 1
+Physical Damage: 61-101
+Critical Hit Chance: 5%
+Attacks per Second: 1.45
+Weapon Range: 1.1
+Requires: Level 77, 212 Str
+local weapon implicit hidden % base damage is fire [50]
+
+Expert Brigand Mace (Area Level 75+)
+Tier 1
+Physical Damage: 51-84
+Critical Hit Chance: 5%
+Attacks per Second: 1.45
+Weapon Range: 1.1
+Requires: Level 77, 212 Str
+
+Expert Warpick (Area Level 76+)
+Tier 2
+Physical Damage: 48-64
+Critical Hit Chance: 8%
+Attacks per Second: 1.45
+Weapon Range: 1.1
+Requires: Level 78, 212 Str
++(30–40)% to Critical Damage Bonus
+
+Expert Construct Hammer (Area Level 77+)
+Tier 2
+Physical Damage: 60-73
+Critical Hit Chance: 5%
+Attacks per Second: 1.4
+Weapon Range: 1.1
+Requires: Level 79, 212 Str
+Causes Daze buildup equal to 100% of Damage dealt

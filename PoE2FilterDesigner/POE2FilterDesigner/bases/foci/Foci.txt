@@ -1,0 +1,69 @@
+Twig Focus (Area Level 1-6)
+Energy Shield: 12
+
+Woven Focus (Area Level 4-10)
+Energy Shield: 15
+Requires: Level 6, 13 Int
+
+Antler Focus (Area Level 8-16)
+Energy Shield: 17
+Requires: Level 10, 20 Int
+
+Engraved Focus (Area Level 14-22)
+Energy Shield: 21
+Requires: Level 16, 30 Int
+
+Tonal Focus (Area Level 20-26)
+Energy Shield: 25
+Requires: Level 22, 42 Int
+
+Crystal Focus (Area Level 24-33)
+Energy Shield: 28
+Requires: Level 26, 49 Int
+
+Voodoo Focus (Area Level 31-36)
+Energy Shield: 32
+Requires: Level 33, 61 Int
+
+Plumed Focus (Area Level 34-45)
+Energy Shield: 34
+Requires: Level 36, 66 Int
+
+Advanced Woven Focus (Area Level 43-48)
+Energy Shield: 40
+Requires: Level 45, 83 Int
+
+Advanced Antler Focus (Area Level 46-51)
+Energy Shield: 42
+Requires: Level 48, 88 Int
+
+Advanced Tonal Focus (Area Level 49-55)
+Energy Shield: 43
+Requires: Level 51, 94 Int
+
+Advanced Crystal Focus (Area Level 53-59)
+Energy Shield: 46
+Requires: Level 55, 101 Int
+
+Advanced Voodoo Focus (Area Level 57-61)
+Energy Shield: 49
+Requires: Level 59, 108 Int
+
+Advanced Plumed Focus (Area Level 59-65)
+Energy Shield: 50
+Requires: Level 61, 112 Int
+
+Expert Antler Focus (Area Level 63+)
+Tier 2
+Energy Shield: 52
+Requires: Level 65, 118 Int
+
+Expert Crystal Focus (Area Level 68+)
+Tier 2
+Energy Shield: 58
+Requires: Level 70, 129 Int
+
+Expert Plumed Focus (Area Level 73+)
+Tier 1
+Energy Shield: 63
+Requires: Level 75, 139 Int

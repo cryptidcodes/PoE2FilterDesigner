@@ -1,0 +1,63 @@
+Ringmail Gauntlets (Area Level 4-16)
+Armour: 13
+Evasion Rating: 10
+Requires: Level 6, 7 Str, 7 Dex
+
+Layered Gauntlets (Area Level 14-33)
+Armour: 22
+Evasion Rating: 18
+Requires: Level 16, 15 Str, 15 Dex
+
+Doubled Gauntlets (Area Level 31-45)
+Armour: 37
+Evasion Rating: 33
+Requires: Level 33, 30 Str, 30 Dex
+
+Plate Gauntlets (Area Level 43-51)
+Armour: 48
+Evasion Rating: 44
+Requires: Level 45, 40 Str, 40 Dex
+
+Advanced Ringmail Gauntlets (Area Level 43-51)
+Armour: 48
+Evasion Rating: 44
+Requires: Level 45, 40 Str, 40 Dex
+
+Advanced Layered Gauntlets (Area Level 49-52)
+Armour: 54
+Evasion Rating: 49
+Requires: Level 51, 46 Str, 46 Dex
+
+Burnished Gauntlets (Area Level 50-59)
+Armour: 55
+Evasion Rating: 50
+Requires: Level 52, 46 Str, 46 Dex
+
+Advanced Doubled Gauntlets (Area Level 57-65)
+Armour: 61
+Evasion Rating: 56
+Requires: Level 59, 52 Str, 52 Dex
+
+Ornate Gauntlets (Area Level 63+)
+Tier 2
+Armour: 67
+Evasion Rating: 61
+Requires: Level 65, 57 Str, 57 Dex
+
+Expert Ringmail Gauntlets (Area Level 63+)
+Tier 2
+Armour: 67
+Evasion Rating: 61
+Requires: Level 65, 57 Str, 57 Dex
+
+Expert Layered Gauntlets (Area Level 68+)
+Tier 2
+Armour: 74
+Evasion Rating: 67
+Requires: Level 70, 62 Str, 62 Dex
+
+Expert Doubled Gauntlets (Area Level 73+)
+Tier 1
+Armour: 80
+Evasion Rating: 73
+Requires: Level 75, 67 Str, 67 Dex

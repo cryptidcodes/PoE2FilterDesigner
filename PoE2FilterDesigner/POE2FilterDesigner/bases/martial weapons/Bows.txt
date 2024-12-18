@@ -1,0 +1,165 @@
+Crude Bow (Area Level 1-5)
+Physical Damage: 6-9
+Critical Hit Chance: 5%
+Attacks per Second: 1.2
+
+Shortbow (Area Level 3-11)
+Physical Damage: 7-14
+Critical Hit Chance: 5%
+Attacks per Second: 1.25
+Requires: Level 5, 14 Dex
+
+Warden Bow (Area Level 9-16)
+Physical Damage: 12-18
+Critical Hit Chance: 5%
+Attacks per Second: 1.15
+Requires: Level 11, 27 Dex
+(20–30)% chance to Chain an additional time
+
+Recurve Bow (Area Level 14-22)
+Physical Damage: 15-31
+Critical Hit Chance: 5%
+Attacks per Second: 1.1
+Requires: Level 16, 38 Dex
+
+Composite Bow (Area Level 20-28)
+Physical Damage: 19-31
+Critical Hit Chance: 5%
+Attacks per Second: 1.2
+Requires: Level 22, 52 Dex
+
+Dualstring Bow (Area Level 26-33)
+Physical Damage: 16-31
+Critical Hit Chance: 5%
+Attacks per Second: 1.1
+Requires: Level 28, 65 Dex
+Bow Attacks fire an additional Arrow
+
+Cultist Bow (Area Level 31-39)
+Physical Damage: 36-59
+Critical Hit Chance: 5%
+Attacks per Second: 1.2
+Requires: Level 33, 76 Dex
+local weapon implicit hidden % base damage is chaos [100]
+
+Zealot Bow (Area Level 37-45)
+Physical Damage: 31-47
+Critical Hit Chance: 5%
+Attacks per Second: 1.2
+Requires: Level 39, 90 Dex
+
+Artillery Bow (Area Level 43-48)
+Physical Damage: 39-72
+Critical Hit Chance: 5%
+Attacks per Second: 1.15
+Requires: Level 45, 104 Dex
+50% reduced Projectile Range
+
+Advanced Shortbow (Area Level 43-48)
+Physical Damage: 29-54
+Critical Hit Chance: 5%
+Attacks per Second: 1.25
+Requires: Level 45, 104 Dex
+
+Advanced Warden Bow (Area Level 46-50)
+Physical Damage: 35-53
+Critical Hit Chance: 5%
+Attacks per Second: 1.15
+Requires: Level 48, 110 Dex
+(20–30)% chance to Chain an additional time
+
+Tribal Bow (Area Level 48-51)
+Physical Damage: 38-57
+Critical Hit Chance: 5%
+Attacks per Second: 1.2
+Requires: Level 50, 115 Dex
+
+Advanced Composite Bow (Area Level 49-52)
+Physical Damage: 36-61
+Critical Hit Chance: 5%
+Attacks per Second: 1.2
+Requires: Level 51, 117 Dex
+
+Greatbow (Area Level 50-55)
+Physical Damage: 40-82
+Critical Hit Chance: 6.5%
+Attacks per Second: 1.15
+Requires: Level 52, 119 Str, 119 Dex
+
+Advanced Dualstring Bow (Area Level 53-56)
+Physical Damage: 29-54
+Critical Hit Chance: 5%
+Attacks per Second: 1.2
+Requires: Level 55, 126 Dex
+Bow Attacks fire an additional Arrow
+
+Double Limb Bow (Area Level 54-59)
+Physical Damage: 42-63
+Critical Hit Chance: 5%
+Attacks per Second: 1.2
+Requires: Level 56, 128 Dex
+
+Advanced Cultist Bow (Area Level 57-62)
+Physical Damage: 41-69
+Critical Hit Chance: 5%
+Attacks per Second: 1.2
+Requires: Level 59, 135 Dex
+local weapon implicit hidden % base damage is chaos [100]
+
+Advanced Zealot Bow (Area Level 60-65)
+Physical Damage: 46-69
+Critical Hit Chance: 5%
+Attacks per Second: 1.2
+Requires: Level 62, 142 Dex
+
+Heavy Bow (Area Level 63+)
+Tier 2
+Physical Damage: 45-75
+Critical Hit Chance: 5%
+Attacks per Second: 1.2
+Requires: Level 65, 148 Dex
+
+Expert Shortbow (Area Level 65+)
+Tier 2
+Physical Damage: 41-76
+Critical Hit Chance: 5%
+Attacks per Second: 1.25
+Requires: Level 67, 174 Dex
+
+Expert Composite Bow (Area Level 70+)
+Tier 2
+Physical Damage: 49-82
+Critical Hit Chance: 5%
+Attacks per Second: 1.2
+Requires: Level 72, 193 Dex
+
+Expert Warden Bow (Area Level 75+)
+Tier 2
+Physical Damage: 53-80
+Critical Hit Chance: 5%
+Attacks per Second: 1.15
+Requires: Level 77, 212 Dex
+(20–30)% chance to Chain an additional time
+
+Expert Zealot Bow (Area Level 75+)
+Tier 1
+Physical Damage: 56-84
+Critical Hit Chance: 5%
+Attacks per Second: 1.2
+Requires: Level 77, 212 Dex
+
+Expert Dualstring Bow (Area Level 76+)
+Tier 1
+Physical Damage: 39-73
+Critical Hit Chance: 5%
+Attacks per Second: 1.2
+Requires: Level 78, 212 Dex
+Bow Attacks fire an additional Arrow
+
+Expert Cultist Bow (Area Level 77+)
+Tier 2
+Physical Damage: 52-87
+Critical Hit Chance: 5%
+Attacks per Second: 1.2
+Requires: Level 79, 212 Dex
+local weapon implicit hidden % base damage is chaos [100]

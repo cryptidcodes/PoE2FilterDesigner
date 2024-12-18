@@ -1,0 +1,112 @@
+Leather Buckler (Area Level 1-5)
+Block chance: 24%
+Evasion Rating: 12
+
+Wooden Buckler (Area Level 3-11)
+Block chance: 24%
+Evasion Rating: 20
+Requires: Level 5, 11 Dex
+
+Plated Buckler (Area Level 9-16)
+Block chance: 24%
+Evasion Rating: 32
+Requires: Level 11, 22 Dex
+
+Iron Buckler (Area Level 14-22)
+Block chance: 24%
+Evasion Rating: 42
+Requires: Level 16, 30 Dex
+
+Ridged Buckler (Area Level 20-26)
+Block chance: 24%
+Evasion Rating: 54
+Requires: Level 22, 42 Dex
+
+Spiked Buckler (Area Level 24-33)
+Block chance: 24%
+Evasion Rating: 62
+Requires: Level 26, 49 Dex
+
+Ringed Buckler (Area Level 31-39)
+Block chance: 24%
+Evasion Rating: 75
+Requires: Level 33, 61 Dex
+
+Edged Buckler (Area Level 37-45)
+Block chance: 24%
+Evasion Rating: 87
+Requires: Level 39, 72 Dex
+
+Laminate Buckler (Area Level 43-48)
+Block chance: 24%
+Evasion Rating: 99
+Requires: Level 45, 83 Dex
+
+Advanced Wooden Buckler (Area Level 43-48)
+Block chance: 24%
+Evasion Rating: 99
+Requires: Level 45, 83 Dex
+
+Pearl Buckler (Area Level 46-51)
+Block chance: 24%
+Evasion Rating: 105
+Requires: Level 48, 88 Dex
+
+Advanced Plated Buckler (Area Level 46-51)
+Block chance: 24%
+Evasion Rating: 105
+Requires: Level 48, 88 Dex
+
+Advanced Ridged Buckler (Area Level 49-52)
+Block chance: 24%
+Evasion Rating: 111
+Requires: Level 51, 94 Dex
+
+Ornate Buckler (Area Level 50-55)
+Block chance: 24%
+Evasion Rating: 113
+Requires: Level 52, 95 Dex
+
+Array Buckler (Area Level 53-59)
+Block chance: 24%
+Evasion Rating: 119
+Requires: Level 55, 101 Dex
+
+Advanced Spiked Buckler (Area Level 53-59)
+Block chance: 24%
+Evasion Rating: 119
+Requires: Level 55, 101 Dex
+
+Advanced Ringed Buckler (Area Level 57-61)
+Block chance: 24%
+Evasion Rating: 127
+Requires: Level 59, 108 Dex
+
+Advanced Edged Buckler (Area Level 59-65)
+Block chance: 24%
+Evasion Rating: 131
+Requires: Level 61, 112 Dex
+
+Aegis Buckler (Area Level 63+)
+Tier 2
+Block chance: 24%
+Evasion Rating: 139
+Requires: Level 65, 118 Dex
+
+Expert Plated Buckler (Area Level 63+)
+Tier 2
+Block chance: 24%
+Evasion Rating: 139
+Requires: Level 65, 118 Dex
+
+Expert Spiked Buckler (Area Level 68+)
+Tier 2
+Block chance: 24%
+Evasion Rating: 152
+Requires: Level 70, 129 Dex
+
+Expert Edged Buckler (Area Level 73+)
+Tier 1
+Block chance: 24%
+Evasion Rating: 166
+Requires: Level 75, 139 Dex

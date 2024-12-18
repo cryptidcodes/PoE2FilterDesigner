@@ -1,0 +1,63 @@
+Gauze Wraps (Area Level 2-16)
+Evasion Rating: 8
+Energy Shield: 6
+Requires: Level 4, 6 Dex, 6 Int
+
+Linen Wraps (Area Level 14-33)
+Evasion Rating: 18
+Energy Shield: 9
+Requires: Level 16, 15 Dex, 15 Int
+
+Spiral Wraps (Area Level 31-45)
+Evasion Rating: 33
+Energy Shield: 14
+Requires: Level 33, 30 Dex, 30 Int
+
+Buckled Wraps (Area Level 43-51)
+Evasion Rating: 44
+Energy Shield: 17
+Requires: Level 45, 40 Dex, 40 Int
+
+Advanced Gauze Wraps (Area Level 43-51)
+Evasion Rating: 44
+Energy Shield: 17
+Requires: Level 45, 40 Dex, 40 Int
+
+Advanced Linen Wraps (Area Level 49-52)
+Evasion Rating: 49
+Energy Shield: 19
+Requires: Level 51, 46 Dex, 46 Int
+
+Furtive Wraps (Area Level 50-59)
+Evasion Rating: 50
+Energy Shield: 19
+Requires: Level 52, 46 Dex, 46 Int
+
+Advanced Spiral Wraps (Area Level 57-65)
+Evasion Rating: 56
+Energy Shield: 21
+Requires: Level 59, 52 Dex, 52 Int
+
+Utility Wraps (Area Level 63+)
+Tier 2
+Evasion Rating: 61
+Energy Shield: 23
+Requires: Level 65, 57 Dex, 57 Int
+
+Expert Gauze Wraps (Area Level 63+)
+Tier 2
+Evasion Rating: 61
+Energy Shield: 23
+Requires: Level 65, 57 Dex, 57 Int
+
+Expert Linen Wraps (Area Level 68+)
+Tier 2
+Evasion Rating: 67
+Energy Shield: 25
+Requires: Level 70, 62 Dex, 62 Int
+
+Expert Spiral Wraps (Area Level 73+)
+Tier 1
+Evasion Rating: 73
+Energy Shield: 28
+Requires: Level 75, 67 Dex, 67 Int

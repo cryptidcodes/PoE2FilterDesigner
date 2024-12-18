@@ -1,0 +1,191 @@
+Makeshift Crossbow (Area Level 1-4)
+Physical Damage: 6-10
+Critical Hit Chance: 5%
+Attacks per Second: 1.6
+Reload Time: 0.8
+
+Tense Crossbow (Area Level 2-10)
+Physical Damage: 7-13
+Critical Hit Chance: 5%
+Attacks per Second: 1.6
+Reload Time: 0.85
+Requires: Level 4, 8 Str, 8 Dex
+(20–30)% increased Bolt Speed
+
+Sturdy Crossbow (Area Level 8-16)
+Physical Damage: 9-22
+Critical Hit Chance: 5%
+Attacks per Second: 1.55
+Reload Time: 0.75
+Requires: Level 10, 15 Str, 15 Dex
+
+Varnished Crossbow (Area Level 14-20)
+Physical Damage: 10-30
+Critical Hit Chance: 5%
+Attacks per Second: 1.6
+Reload Time: 0.8
+Requires: Level 16, 22 Str, 22 Dex
+
+Dyad Crossbow (Area Level 18-26)
+Physical Damage: 7-30
+Critical Hit Chance: 5%
+Attacks per Second: 1.6
+Reload Time: 1.1
+Requires: Level 20, 27 Str, 27 Dex
+Loads an additional bolt
+
+Alloy Crossbow (Area Level 24-33)
+Physical Damage: 11-42
+Critical Hit Chance: 5%
+Attacks per Second: 1.7
+Reload Time: 0.7
+Requires: Level 26, 34 Str, 34 Dex
+
+Bombard Crossbow (Area Level 31-38)
+Physical Damage: 12-47
+Critical Hit Chance: 5%
+Attacks per Second: 1.65
+Reload Time: 0.75
+Requires: Level 33, 43 Str, 43 Dex
+Grenade Skills Fire an additional Projectile
+
+Construct Crossbow (Area Level 36-45)
+Physical Damage: 15-61
+Critical Hit Chance: 5%
+Attacks per Second: 1.6
+Reload Time: 0.8
+Requires: Level 38, 49 Str, 49 Dex
+
+Blackfire Crossbow (Area Level 43-48)
+Physical Damage: 17-67
+Critical Hit Chance: 7%
+Attacks per Second: 1.6
+Reload Time: 0.85
+Requires: Level 45, 57 Str, 57 Dex
+
+Advanced Tense Crossbow (Area Level 43-48)
+Physical Damage: 17-66
+Critical Hit Chance: 5%
+Attacks per Second: 1.6
+Reload Time: 0.85
+Requires: Level 45, 57 Str, 57 Dex
+(20–30)% increased Bolt Speed
+
+Piercing Crossbow (Area Level 46-51)
+Physical Damage: 17-68
+Critical Hit Chance: 5%
+Attacks per Second: 1.65
+Reload Time: 0.85
+Requires: Level 48, 61 Str, 61 Dex
+(20–30)% chance to Pierce an Enemy
+
+Advanced Sturdy Crossbow (Area Level 46-51)
+Physical Damage: 19-76
+Critical Hit Chance: 5%
+Attacks per Second: 1.55
+Reload Time: 0.75
+Requires: Level 48, 61 Str, 61 Dex
+
+Advanced Varnished Crossbow (Area Level 49-52)
+Physical Damage: 19-78
+Critical Hit Chance: 5%
+Attacks per Second: 1.6
+Reload Time: 0.8
+Requires: Level 51, 65 Str, 65 Dex
+
+Cumbrous Crossbow (Area Level 50-55)
+Physical Damage: 16-63
+Critical Hit Chance: 5%
+Attacks per Second: 1.6
+Reload Time: 0.9
+Requires: Level 52, 66 Str, 66 Dex
++1 to maximum number of Summoned Ballista Totems
+
+Advanced Dyad Crossbow (Area Level 53-56)
+Physical Damage: 17-66
+Critical Hit Chance: 5%
+Attacks per Second: 1.6
+Reload Time: 1.1
+Requires: Level 55, 69 Str, 69 Dex
+Loads an additional bolt
+
+Dedalian Crossbow (Area Level 54-59)
+Physical Damage: 21-83
+Critical Hit Chance: 7%
+Attacks per Second: 1.55
+Reload Time: 0.85
+Requires: Level 56, 71 Str, 71 Dex
+
+Advanced Bombard Crossbow (Area Level 57-62)
+Physical Damage: 19-77
+Critical Hit Chance: 5%
+Attacks per Second: 1.65
+Reload Time: 0.75
+Requires: Level 59, 74 Str, 74 Dex
+Grenade Skills Fire an additional Projectile
+
+Advanced Forlorn Crossbow (Area Level 60-65)
+Physical Damage: 23-92
+Critical Hit Chance: 5%
+Attacks per Second: 1.6
+Reload Time: 0.8
+Requires: Level 62, 78 Str, 78 Dex
+
+Esoteric Crossbow (Area Level 63+)
+Tier 2
+Physical Damage: 24-96
+Critical Hit Chance: 5%
+Attacks per Second: 1.6
+Reload Time: 0.8
+Requires: Level 65, 81 Str, 81 Dex
+
+Expert Sturdy Crossbow (Area Level 65+)
+Tier 2
+Physical Damage: 25-102
+Critical Hit Chance: 5%
+Attacks per Second: 1.55
+Reload Time: 0.75
+Requires: Level 67, 95 Str, 95 Dex
+
+Expert Varnished Crossbow (Area Level 70+)
+Tier 2
+Physical Damage: 26-105
+Critical Hit Chance: 5%
+Attacks per Second: 1.6
+Reload Time: 0.8
+Requires: Level 72, 106 Str, 106 Dex
+
+Expert Tense Crossbow (Area Level 75+)
+Tier 2
+Physical Damage: 26-106
+Critical Hit Chance: 5%
+Attacks per Second: 1.6
+Reload Time: 0.85
+Requires: Level 77, 116 Str, 116 Dex
+(20–30)% increased Bolt Speed
+
+Expert Forlorn Crossbow (Area Level 75+)
+Tier 1
+Physical Damage: 28-112
+Critical Hit Chance: 5%
+Attacks per Second: 1.6
+Reload Time: 0.8
+Requires: Level 77, 116 Str, 116 Dex
+
+Expert Dyad Crossbow (Area Level 76+)
+Tier 1
+Physical Damage: 22-89
+Critical Hit Chance: 5%
+Attacks per Second: 1.6
+Reload Time: 1.1
+Requires: Level 78, 116 Str, 116 Dex
+Loads an additional bolt
+
+Expert Bombard Crossbow (Area Level 77+)
+Tier 1
+Physical Damage: 24-97
+Critical Hit Chance: 5%
+Attacks per Second: 1.65
+Reload Time: 0.75
+Requires: Level 79, 116 Str, 116 Dex
+Grenade Skills Fire an additional Projectile

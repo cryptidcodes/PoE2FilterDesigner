@@ -1,0 +1,83 @@
+Brimmed Helm (Area Level 3-11)
+Armour: 23
+Evasion Rating: 18
+Requires: Level 5, 7 Str, 7 Dex
+
+Guarded Helm (Area Level 9-16)
+Armour: 34
+Evasion Rating: 28
+Requires: Level 11, 13 Str, 13 Dex
+
+Visored Helm (Area Level 14-26)
+Armour: 44
+Evasion Rating: 37
+Requires: Level 16, 18 Str, 18 Dex
+
+Cowled Helm (Area Level 24-33)
+Armour: 62
+Evasion Rating: 54
+Requires: Level 26, 27 Str, 27 Dex
+
+Shielded Helm (Area Level 31-45)
+Armour: 75
+Evasion Rating: 66
+Requires: Level 33, 34 Str, 34 Dex
+
+Closed Helm (Area Level 43-48)
+Armour: 97
+Evasion Rating: 87
+Requires: Level 45, 46 Str, 46 Dex
+
+Advanced Brimmed Helm (Area Level 43-48)
+Armour: 97
+Evasion Rating: 87
+Requires: Level 45, 46 Str, 46 Dex
+
+Advanced Guarded Helm (Area Level 46-51)
+Armour: 102
+Evasion Rating: 92
+Requires: Level 48, 49 Str, 49 Dex
+
+Advanced Visored Helm (Area Level 49-52)
+Armour: 108
+Evasion Rating: 98
+Requires: Level 51, 52 Str, 52 Dex
+
+Decorated Helm (Area Level 50-55)
+Armour: 110
+Evasion Rating: 99
+Requires: Level 52, 53 Str, 53 Dex
+
+Advanced Cowled Helm (Area Level 53-59)
+Armour: 115
+Evasion Rating: 105
+Requires: Level 55, 55 Str, 55 Dex
+
+Advanced Shielded Helm (Area Level 57-65)
+Armour: 123
+Evasion Rating: 111
+Requires: Level 59, 59 Str, 59 Dex
+
+Gallant Helm (Area Level 63+)
+Tier 2
+Armour: 134
+Evasion Rating: 122
+Requires: Level 65, 65 Str, 65 Dex
+
+Expert Guarded Helm (Area Level 63+)
+Tier 2
+Armour: 134
+Evasion Rating: 122
+Requires: Level 65, 65 Str, 65 Dex
+
+Expert Cowled Helm (Area Level 68+)
+Tier 2
+Armour: 147
+Evasion Rating: 134
+Requires: Level 70, 70 Str, 70 Dex
+
+Expert Shielded Helm (Area Level 73+)
+Tier 1
+Armour: 160
+Evasion Rating: 146
+Requires: Level 75, 76 Str, 76 Dex

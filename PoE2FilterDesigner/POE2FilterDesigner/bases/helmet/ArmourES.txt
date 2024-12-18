@@ -1,0 +1,83 @@
+Iron Crown (Area Level 3-10)
+Armour: 23
+Energy Shield: 12
+Requires: Level 5, 7 Str, 7 Int
+
+Horned Crown (Area Level 8-16)
+Armour: 33
+Energy Shield: 15
+Requires: Level 10, 12 Str, 12 Int
+
+Cultist Crown (Area Level 14-28)
+Armour: 44
+Energy Shield: 19
+Requires: Level 16, 18 Str, 18 Int
+
+Martyr Crown (Area Level 26-33)
+Armour: 66
+Energy Shield: 25
+Requires: Level 28, 30 Str, 30 Int
+
+Heavy Crown (Area Level 31-45)
+Armour: 75
+Energy Shield: 28
+Requires: Level 33, 34 Str, 34 Int
+
+Spiritbone Crown (Area Level 43-48)
+Armour: 97
+Energy Shield: 35
+Requires: Level 45, 46 Str, 46 Int
+
+Advanced Iron Crown (Area Level 43-48)
+Armour: 97
+Energy Shield: 35
+Requires: Level 45, 46 Str, 46 Int
+
+Advanced Horned Crown (Area Level 46-51)
+Armour: 102
+Energy Shield: 37
+Requires: Level 48, 49 Str, 49 Int
+
+Advanced Cultist Crown (Area Level 49-52)
+Armour: 108
+Energy Shield: 38
+Requires: Level 51, 52 Str, 52 Int
+
+Lavish Crown (Area Level 50-55)
+Armour: 110
+Energy Shield: 39
+Requires: Level 52, 53 Str, 53 Int
+
+Advanced Martyr Crown (Area Level 53-59)
+Armour: 115
+Energy Shield: 41
+Requires: Level 55, 55 Str, 55 Int
+
+Advanced Heavy Crown (Area Level 57-65)
+Armour: 123
+Energy Shield: 43
+Requires: Level 59, 59 Str, 59 Int
+
+Templar Crown (Area Level 63+)
+Tier 2
+Armour: 134
+Energy Shield: 46
+Requires: Level 65, 65 Str, 65 Int
+
+Expert Horned Crown (Area Level 63+)
+Tier 2
+Armour: 134
+Energy Shield: 46
+Requires: Level 65, 65 Str, 65 Int
+
+Expert Martyr Crown (Area Level 68+)
+Tier 2
+Armour: 147
+Energy Shield: 51
+Requires: Level 70, 70 Str, 70 Int
+
+Expert Heavy Crown (Area Level 73+)
+Tier 1
+Armour: 160
+Energy Shield: 55
+Requires: Level 75, 76 Str, 76 Int

@@ -1,0 +1,50 @@
+Ashen Staff
+ Grants Skill: Firebolt
+
+Gelid Staff
+Requires: Level 2
+ Grants Skill: Freezing Shards
+
+Voltaic Staff
+Requires: Level 2
+ Grants Skill: Lightning Bolt
+
+Spriggan Staff
+Requires: Level 11
+ Grants Skill: Firebolt
+
+Pyrophyte Staff
+Requires: Level 16
+ Grants Skill: Living Bomb
+
+Chiming Staff
+Requires: Level 25
+ Grants Skill: Sigil of Power
+
+Rending Staff
+Requires: Level 33
+ Grants Skill: Soulrend
+
+Reaping Staff
+Requires: Level 38
+ Grants Skill: Reap
+
+Icicle Staff
+Requires: Level 45
+ Grants Skill: Firebolt
+
+Roaring Staff
+Requires: Level 49
+ Grants Skill: Unleash
+
+Paralysing Staff
+Requires: Level 52
+ Grants Skill: Shock Nova
+
+Cleric Staff
+Requires: Level 56
+ Grants Skill: Consecrate
+
+Dark Staff
+Requires: Level 65
+ Grants Skill: Dark Pact

@@ -1,0 +1,137 @@
+Chain Mail (Area Level 1-11)
+Armour: 25
+Evasion Rating: 16
+Movement Speed: -4%
+
+Rogue Armour (Area Level 9-16)
+Armour: 53
+Evasion Rating: 43
+Movement Speed: -4%
+Requires: Level 11, 14 Str, 14 Dex
+
+Vagabond Armour (Area Level 14-26)
+Armour: 67
+Evasion Rating: 56
+Movement Speed: -4%
+Requires: Level 16, 20 Str, 20 Dex
+
+Cloaked Mail (Area Level 24-33)
+Armour: 95
+Evasion Rating: 83
+Movement Speed: -4%
+Requires: Level 26, 31 Str, 31 Dex
+
+Explorer Armour (Area Level 31-37)
+Armour: 114
+Evasion Rating: 101
+Movement Speed: -4%
+Requires: Level 33, 39 Str, 39 Dex
+
+Scale Mail (Area Level 35-45)
+Armour: 125
+Evasion Rating: 112
+Movement Speed: -4%
+Requires: Level 37, 43 Str, 43 Dex
+
+Knight Armour (Area Level 43-48)
+Advanced Chain Mail (Area Level 43-48)
+Armour: 148
+Evasion Rating: 133
+Movement Speed: -4%
+Requires: Level 45, 51 Str, 51 Dex
+
+Advanced Rogue Armour (Area Level 46-50)
+Armour: 156
+Evasion Rating: 141
+Movement Speed: -4%
+Requires: Level 48, 55 Str, 55 Dex
+
+Ancestral Mail (Area Level 48-51)
+Armour: 162
+Evasion Rating: 146
+Movement Speed: -4%
+Requires: Level 50, 57 Str, 57 Dex
+
+Advanced Vagabond Armour (Area Level 49-52)
+Armour: 165
+Evasion Rating: 149
+Movement Speed: -4%
+Requires: Level 51, 59 Str, 59 Dex
+
+Lamellar Mail (Area Level 50-55)
+Armour: 167
+Evasion Rating: 151
+Movement Speed: -4%
+Requires: Level 52, 59 Str, 59 Dex
+
+Advanced Cloaked Mail (Area Level 53-58)
+Armour: 176
+Evasion Rating: 159
+Movement Speed: -4%
+Requires: Level 55, 62 Str, 62 Dex
+
+Gladiator Armour (Area Level 56-59)
+Armour: 184
+Evasion Rating: 167
+Movement Speed: -4%
+Requires: Level 58, 66 Str, 66 Dex
+
+Advanced Explorer Armour (Area Level 57-62)
+Armour: 187
+Evasion Rating: 170
+Movement Speed: -4%
+Requires: Level 59, 67 Str, 67 Dex
+
+Advanced Scale Mail (Area Level 60-65)
+Armour: 195
+Evasion Rating: 178
+Movement Speed: -4%
+Requires: Level 62, 70 Str, 70 Dex
+
+# Endgame bases below (level 65+)
+
+Expert Rogue Armour (Area Level 63+)
+Tier 2
+Armour: 245
+Evasion Rating: 223
+Movement Speed: -4%
+Requires: Level 65, 86 Str, 86 Dex
++(60–80) to maximum Life
+
+Heroic Armour (Area Level 66+)
+Tier 2
+Armour: 245
+Evasion Rating: 223
+Movement Speed: -4%
+Requires: Level 65, 86 Str, 86 Dex
++(60–80) to maximum Life
+
+Tournament Mail (Area Level 68+)
+Tier 2
+Armour: 245
+Evasion Rating: 223
+Movement Speed: -4%
+Requires: Level 68, 86 Str, 86 Dex
++(20–25)% to Fire/Cold/Lightning Resistance
+
+Expert Cloaked Mail (Area Level 71+)
+Tier 2
+Armour: 245
+Evasion Rating: 223
+Movement Speed: -4%
+Requires: Level 70, 86 Str, 86 Dex
++(20–25)% to Fire/Cold/Lightning Resistance
+
+Slayer Armour (Area Level 73+)
+Tier 1
+Armour: 294
+Evasion Rating: 268
+Movement Speed: -4%
+Requires: Level 73, 86 Str, 86 Dex
+
+Expert Scale Mail (Area Level 73+)
+Tier 1
+Armour: 294
+Evasion Rating: 268
+Movement Speed: -4%
+Requires: Level 75, 86 Str, 86 Dex

@@ -1,0 +1,32 @@
+Broadhead Quiver
+Adds 1 to 3 Physical Damage to Attacks
+
+Fire Quiver
+Adds 3 to 5 Fire Damage to Attacks
+
+Sacral Quiver
+Gain (2–3) Life per Enemy Hit with Attacks
+
+Two-Point Quiver
+(20–30)% increased Accuracy Rating
+
+Blunt Quiver
+(20–30)% reduced Enemy Stun Threshold
+
+Toxic Quiver
+(10–15)% chance to Poison on Hit with Attacks
+
+Serrated Quiver
+Attacks have (10–15)% chance to cause Bleeding
+
+Primed Quiver
+(7–10)% increased Attack Speed
+
+Penetrating Quiver
+100% chance to Pierce an Enemy
+
+Volant Quiver
+(20–30)% increased Arrow Speed
+
+Visceral Quiver
+(20–30)% increased Critical Hit Chance for Attacks

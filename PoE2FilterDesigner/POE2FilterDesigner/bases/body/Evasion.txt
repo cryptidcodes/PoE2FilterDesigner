@@ -1,0 +1,128 @@
+Leather Vest (Area Level 1-4)
+Evasion Rating: 30
+Movement Speed: -3%
+
+Quilted Vest (Area Level 2-11)
+Evasion Rating: 44
+Movement Speed: -3%
+Requires: Level 4, 10 Dex
+
+Pathfinder Coat (Area Level 9-16)
+Evasion Rating: 78
+Movement Speed: -3%
+Requires: Level 11, 24 Dex
+
+Shrouded Vest (Area Level 14-22)
+Evasion Rating: 102
+Movement Speed: -3%
+Requires: Level 16, 34 Dex
+
+Rhoahide Coat (Area Level 20-26)
+Evasion Rating: 131
+Movement Speed: -3%
+Requires: Level 22, 47 Dex
+
+Studded Vest (Area Level 24-33)
+Evasion Rating: 150
+Movement Speed: -3%
+Requires: Level 26, 55 Dex
+
+Scout's Vest (Area Level 31-36)
+Evasion Rating: 184
+Movement Speed: -3%
+Requires: Level 33, 68 Dex
+
+Serpentscale Coat (Area Level 34-45)
+Evasion Rating: 198
+Movement Speed: -3%
+Requires: Level 36, 75 Dex
+
+Advanced Quilted Vest (Area Level 43-48)
+Evasion Rating: 242
+Movement Speed: -3%
+Requires: Level 45, 94 Dex
+
+Corsair Vest (Area Level 43-48)
+Evasion Rating: 242
+Movement Speed: -3%
+Requires: Level 45, 94 Dex
+
+Advanced Pathfinder Coat (Area Level 46-51)
+Evasion Rating: 256
+Movement Speed: -3%
+Requires: Level 48, 99 Dex
+
+Smuggler Coat (Area Level 46-51)
+Evasion Rating: 256
+Movement Speed: -3%
+Requires: Level 48, 99 Dex
+
+Advanced Rhoahide Coat (Area Level 49-52)
+Evasion Rating: 271
+Movement Speed: -3%
+Requires: Level 51, 105 Dex
+
+Strider Vest (Area Level 50-55)
+Evasion Rating: 275
+Movement Speed: -3%
+Requires: Level 52, 107 Dex
+
+Advanced Studded Vest (Area Level 53-56)
+Evasion Rating: 290
+Movement Speed: -3%
+Requires: Level 55, 113 Dex
+
+Hardleather Coat (Area Level 54-59)
+Evasion Rating: 295
+Movement Speed: -3%
+Requires: Level 56, 115 Dex
+
+Advanced Scout's Vest (Area Level 57-62)
+Evasion Rating: 309
+Movement Speed: -3%
+Requires: Level 59, 122 Dex
+
+Advanced Serpentscale Coat (Area Level 60-65)
+Evasion Rating: 324
+Movement Speed: -3%
+Requires: Level 62, 128 Dex
+
+Expert Pathfinder Coat (Area Level 63+)
+Tier 2
+Evasion Rating: 406
+Movement Speed: -3%
+Requires: Level 65, 157 Dex
+(20–30)% reduced Slowing Potency of Debuffs on You
+
+Exquisite Vest (Area Level 63+)
+Tier 1
+Evasion Rating: 487
+Movement Speed: -3%
+Requires: Level 65, 157 Dex
+
+Mail Coat (Area Level 66+)
+Tier 2
+Evasion Rating: 406
+Movement Speed: -3%
+Requires: Level 68, 157 Dex
+(20–30)% reduced Slowing Potency of Debuffs on You
+
+Expert Studded Vest (Area Level 68+)
+Tier 1
+Evasion Rating: 487
+Movement Speed: -3%
+Requires: Level 70, 157 Dex
+
+Expert Serpentscale Coat (Area Level 71+)
+Tier 2
+Evasion Rating: 406
+Movement Speed: -3%
+Requires: Level 75, 157 Dex
+(30–40)% increased Elemental Ailment Threshold
+
+Armoured Vest (Area Level 73+)
+Tier 2
+Evasion Rating: 406
+Movement Speed: -3%
+Requires: Level 73, 157 Dex
+(30–40)% increased Elemental Ailment Threshold

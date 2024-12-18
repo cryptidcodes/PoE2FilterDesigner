@@ -1,0 +1,51 @@
+
+Withered Wand
+ Grants Skill: Chaos Bolt
+
+Bone Wand
+Requires: Level 2
+ Grants Skill: Bone Blast
+
+Attuned Wand
+Requires: Level 2
+ Grants Skill: Mana Drain
+
+Siphoning Wand
+Requires: Level 11
+ Grants Skill: Power Siphon
+
+Volatile Wand
+Requires: Level 16
+ Grants Skill: Volatile Dead
+
+Galvanic Wand
+Requires: Level 25
+ Grants Skill: Galvanic Field
+
+Acrid Wand
+Requires: Level 33
+ Grants Skill: Decompose
+
+Offering Wand
+Requires: Level 38
+ Grants Skill: Exsanguinate
+
+Frigid Wand
+Requires: Level 45
+ Grants Skill: Chaos Bolt
+
+Torture Wand
+Requires: Level 49
+ Grants Skill: Chaos Bolt
+
+Critical Wand
+Requires: Level 52
+ Grants Skill: Chaos Bolt
+
+Primordial Wand
+Requires: Level 56
+ Grants Skill: Wither
+
+Dueling Wand
+Requires: Level 65
+ Grants Skill: Chaos Bolt

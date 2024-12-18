@@ -1,0 +1,62 @@
+Rawhide Boots (Area Level 1-11)
+Evasion Rating: 15
+
+Laced Boots (Area Level 9-16)
+Evasion Rating: 38
+Requires: Level 11, 20 Dex
+
+Embossed Boots (Area Level 14-28)
+Evasion Rating: 50
+Requires: Level 16, 29 Dex
+
+Steeltoe Boots (Area Level 26-33)
+Evasion Rating: 79
+Requires: Level 28, 49 Dex
+
+Lizardscale Boots (Area Level 31-45)
+Evasion Rating: 90
+Requires: Level 33, 57 Dex
+
+Flared Boots (Area Level 43-51)
+Evasion Rating: 119
+Requires: Level 45, 78 Dex
+
+Advanced Laced Boots (Area Level 43-51)
+Evasion Rating: 119
+Requires: Level 45, 78 Dex
+
+Advanced Embossed Boots (Area Level 49-52)
+Evasion Rating: 133
+Requires: Level 51, 88 Dex
+
+Leatherplate Boots (Area Level 50-55)
+Evasion Rating: 135
+Requires: Level 52, 89 Dex
+
+Advanced Steeltoe Boots (Area Level 53-59)
+Evasion Rating: 143
+Requires: Level 55, 95 Dex
+
+Advanced Lizardscale Boots (Area Level 57-65)
+Evasion Rating: 152
+Requires: Level 59, 101 Dex
+
+Embroidered Boots (Area Level 63+)
+Tier 2
+Evasion Rating: 166
+Requires: Level 65, 111 Dex
+
+Expert Laced Boots (Area Level 63+)
+Tier 2
+Evasion Rating: 166
+Requires: Level 65, 111 Dex
+
+Expert Steeltoe Boots (Area Level 68+)
+Tier 2
+Evasion Rating: 183
+Requires: Level 70, 121 Dex
+
+Expert Lizardscale Boots (Area Level 73+)
+Tier 1
+Evasion Rating: 200
+Requires: Level 75, 131 Dex

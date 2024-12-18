@@ -1,0 +1,63 @@
+Mail Sabatons (Area Level 4-16)
+Armour: 19
+Evasion Rating: 15
+Requires: Level 6, 8 Str, 8 Dex
+
+Braced Sabatons (Area Level 14-33)
+Armour: 33
+Evasion Rating: 28
+Requires: Level 16, 17 Str, 17 Dex
+
+Stacked Sabatons (Area Level 31-45)
+Armour: 56
+Evasion Rating: 50
+Requires: Level 33, 32 Str, 32 Dex
+
+Covered Sabatons (Area Level 43-51)
+Armour: 73
+Evasion Rating: 65
+Requires: Level 45, 43 Str, 43 Dex
+
+Advanced Mail Sabatons (Area Level 43-51)
+Armour: 73
+Evasion Rating: 65
+Requires: Level 45, 43 Str, 43 Dex
+
+Advanced Braced Sabatons (Area Level 49-52)
+Armour: 81
+Evasion Rating: 73
+Requires: Level 51, 49 Str, 49 Dex
+
+Flexile Sabatons (Area Level 50-59)
+Armour: 82
+Evasion Rating: 74
+Requires: Level 52, 50 Str, 50 Dex
+
+Advanced Stacked Sabatons (Area Level 57-65)
+Armour: 92
+Evasion Rating: 84
+Requires: Level 59, 56 Str, 56 Dex
+
+Bold Sabatons (Area Level 63+)
+Tier 2
+Armour: 100
+Evasion Rating: 91
+Requires: Level 65, 61 Str, 61 Dex
+
+Expert Mail Sabatons (Area Level 63+)
+Tier 2
+Armour: 100
+Evasion Rating: 91
+Requires: Level 65, 61 Str, 61 Dex
+
+Expert Braced Sabatons (Area Level 68+)
+Tier 2
+Armour: 110
+Evasion Rating: 101
+Requires: Level 70, 66 Str, 66 Dex
+
+Expert Stacked Sabatons (Area Level 73+)
+Tier 1
+Armour: 120
+Evasion Rating: 110
+Requires: Level 75, 71 Str, 71 Dex

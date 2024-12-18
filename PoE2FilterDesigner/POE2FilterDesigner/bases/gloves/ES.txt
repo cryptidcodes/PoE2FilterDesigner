@@ -1,0 +1,62 @@
+Torn Gloves (Area Level 1-12)
+Energy Shield: 9
+
+Sombre Gloves (Area Level 10-16)
+Energy Shield: 15
+Requires: Level 12, 20 Int
+
+Stitched Gloves (Area Level 14-26)
+Energy Shield: 17
+Requires: Level 16, 27 Int
+
+Jewelled Gloves (Area Level 24-33)
+Energy Shield: 22
+Requires: Level 26, 43 Int
+
+Intricate Gloves (Area Level 31-45)
+Energy Shield: 26
+Requires: Level 33, 53 Int
+
+Pauascale Gloves (Area Level 43-51)
+Energy Shield: 32
+Requires: Level 45, 73 Int
+
+Advanced Sombre Gloves (Area Level 43-51)
+Energy Shield: 32
+Requires: Level 45, 73 Int
+
+Advanced Stitched Gloves (Area Level 49-52)
+Energy Shield: 35
+Requires: Level 51, 82 Int
+
+Embroidered Gloves (Area Level 50-55)
+Energy Shield: 35
+Requires: Level 52, 83 Int
+
+Advanced Jewelled Gloves (Area Level 53-59)
+Energy Shield: 37
+Requires: Level 55, 88 Int
+
+Advanced Intricate Gloves (Area Level 57-65)
+Energy Shield: 39
+Requires: Level 59, 95 Int
+
+Adorned Gloves (Area Level 63+)
+Tier 2
+Energy Shield: 42
+Requires: Level 65, 104 Int
+
+Expert Sombre Gloves (Area Level 63+)
+Tier 2
+Energy Shield: 42
+Requires: Level 65, 104 Int
+
+Expert Jewelled Gloves (Area Level 68+)
+Tier 2
+Energy Shield: 46
+Requires: Level 70, 113 Int
+
+Expert Intricate Gloves (Area Level 73+)
+Tier 1
+Energy Shield: 50
+Requires: Level 75, 122 Int
