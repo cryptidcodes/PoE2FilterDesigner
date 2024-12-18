@@ -1,6 +1,10 @@
 # PoE2FilterDesigner
 tool for generating filters for Path of Exile 2
 
+v0.1.2
+Changes:
+fixed repo to contain source code instead of zip.
+
 v0.1.1
 Changes:
 Updated filterbase to use current version of NeverSink's LiteFilter.
