@@ -15,14 +15,14 @@ Set Hide option to False by default.
 
 Installation:
 1. Make sure Python 3.7 or later is installed on your system
-2. Run setup.bat to set up the program
+2. Run setup.bat to set up the program (optional, as long as you didn't move any of the files in the subdirectories around)
 3. Edit filtersettings.txt to customize your filter settings
 
 Usage:
 1. Open filtersettings.txt in any text editor (like Notepad)
 2. Set the items you want to show to "True"
 3. Save filtersettings.txt
-4. Run run_filter.bat to generate your filter
+4. Right click PoE2Filter.py > Open With > Python (if that doesnt work, try ruunning run_filter.bat) to generate your filter.
 5. The generated filter will be in POE2FilterDesigner\filter.filter
 
 Your filter.filter file will be created in the POE2FilterDesigner directory.
