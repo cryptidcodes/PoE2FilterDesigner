@@ -1,6 +1,9 @@
 # PoE2FilterDesigner
 tool for generating filters for Path of Exile 2
 
+## Deprecated
+Neversink's filterblade was updated to support PoE 2, including custom functionality that this project provided beyond the previous functionality available in filterblade. As such, this project will no longer be supported.
+
 v0.1.2
 Changes:
 fixed repo to contain source code instead of zip.
